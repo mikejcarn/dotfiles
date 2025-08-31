@@ -1,0 +1,95 @@
+### HELIX ###
+
+### EDITOR ###
+theme = "catppuccin_macchiato"
+
+[editor]
+line-number = "relative"
+mouse = false
+bufferline = "multiple"
+scrolloff = 0
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+### KEYMAPPINGS ###
+
+### NORMAL ###
+[keys.normal]
+esc = ["collapse_selection", "keep_primary_selection"]
+";" = "command_mode"
+tab = "goto_next_buffer"
+S-tab = "goto_previous_buffer"
+Q = "wclose"
+
+"`" = "switch_case"
+ret = ["open_above", "move_visual_line_down", "normal_mode"]
+backspace = ["collapse_selection", "move_char_left", "delete_selection"]
+
+"minus" = ["extend_to_line_bounds", "goto_next_paragraph", "goto_next_paragraph", "goto_prev_paragraph"]
+"=" = ["extend_to_line_bounds", "goto_prev_paragraph"]
+"}" = ["goto_prev_paragraph", "move_line_up"]
+"{" = ["goto_next_paragraph", "move_line_down", "move_line_up"]
+
+L = "goto_line_end"
+H = "goto_first_nonwhitespace"
+G = "goto_file_end"
+"#" = "match_brackets"
+
+V = ["select_mode", "extend_to_line_bounds"]
+C = ["extend_to_line_end", "yank_main_selection_to_clipboard", "delete_selection", "insert_mode"]
+D = ["extend_to_line_end", "delete_selection"]
+
+x = ["yank_main_selection_to_clipboard", "delete_selection"]
+p = ["paste_clipboard_after", "collapse_selection"]
+P = ["paste_clipboard_before", "collapse_selection"]
+Y = ["extend_to_line_end", "yank_main_selection_to_clipboard", "collapse_selection"]
+
+"$" = ["move_char_right", "move_prev_word_start", "move_next_word_end", "search_selection", "search_next"]
+
+"A-minus" = "half_page_down" 
+"A-=" = "half_page_up"
+"A-[" = ["align_view_center", "move_line_down"] # "scroll_down" 
+"A-]" = ["align_view_center", "move_line_up"] # "scroll_up"
+
+space = { left = "vsplit", right = "vsplit", up = "hsplit" , down = "hsplit" , j = "align_view_center", k = "align_view_top", h = "align_view_bottom" }
+
+C-l = "jump_view_right"
+C-j = "jump_view_down"
+C-k = "jump_view_up"
+C-h = "jump_view_left"
+
+s = { d = "surround_add", r = "surround_replace", l = ["select_mode", "goto_line_end"], h = ["select_mode", "goto_line_start"],  j = ["select_mode", "extend_to_line_bounds", "goto_next_paragraph"], k = ["select_mode", "extend_to_line_bounds", "goto_prev_paragraph"] }
+
+### SELECT (VISUAL) ###
+[keys.select]
+";" = "command_mode"
+
+"`" = ["switch_case", "collapse_selection", "normal_mode"]
+# "#" = "match_brackets"
+
+"}" = ["extend_to_line_bounds", "goto_prev_paragraph"]
+"{" = ["extend_to_line_bounds", "goto_next_paragraph"]
+
+i = "select_textobject_inner"
+a = "select_textobject_around"
+
+x = ["yank_main_selection_to_clipboard", "delete_selection"]
+d = "delete_selection_noyank"
+y = ["yank_main_selection_to_clipboard", "normal_mode", "flip_selections", "collapse_selection"]
+Y = ["extend_to_line_bounds", "yank_main_selection_to_clipboard", "goto_line_start", "collapse_selection", "normal_mode"]
+p = "replace_selections_with_clipboard"
+P = "paste_clipboard_before"
+
+L = "goto_line_end"
+H = "goto_first_nonwhitespace"
+
+"minus" = ["extend_to_line_bounds", "goto_next_paragraph", "goto_next_paragraph", "goto_prev_paragraph"]
+"=" = ["extend_to_line_bounds", "goto_prev_paragraph"]
+
+s = { d = "surround_add", r = "surround_replace" }

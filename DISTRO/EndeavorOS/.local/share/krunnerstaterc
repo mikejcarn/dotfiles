@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=13 krunner_systemsettings_kcm_keys,4 krunner_systemsettings_kcm_cursortheme,1 krunner_systemsettings_kcm_icons,4 exec:///usr/bin/timeshift-launcher,1 desktopsessions_2,8 exec:///usr/bin/kdeconnect-app,13 exec:///usr/bin/gpick,4 desktopsessions_3,1 appstream_guake.desktop,1 exec:///usr/bin/systemsettings,1 exec:///usr/bin/redshift-gtk,2 krunner_systemsettings_kcm_kscreen,1 krunner_systemsettings_kcm_keyboard,2 krunner_systemsettings_kcm_lookandfeel,1 exec:///usr/bin/kitty,1 exec:///usr/bin/guake -p,5 exec:///usr/bin/gnome-terminal,1 krunner_systemsettings_kcm_kwinscreenedges,11 exec:///usr/lib/firefox/firefox,3 krunner_systemsettings_kcm_bluetooth,6 exec:///usr/bin/guake,2 krunner_systemsettings_kcm_desktoptheme,3 exec:///usr/bin/chromium,9 exec:///usr/bin/yakuake,2 exec:///usr/bin/gnome-disks,1 exec:///usr/bin/firewall-config,3 exec:///usr/bin/pavucontrol,2 exec://,1 exec:///usr/bin/thunar-settings
+
+[PlasmaRunnerManager][History]
+d24d5968-6f0d-4a0f-bd66-1a63fee4100d=konsole,terminal,guake,firefox,network,yak,chrom,chro,redshift,kitty

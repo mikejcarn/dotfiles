@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Nordic KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1326271</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>39128</downloads>
+  <installedfile>/home/mjc/.local/share/color-schemes/Nordic.colors</installedfile>
+  <id>1326271</id>
+  <releasedate>2021-10-28</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1327093/" target="_blank" rel="nofollow"> Nordic look-and-feel theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246" target="_blank" rel="nofollow"> Folders &lt;/a>&lt;br />
+&lt;br />
+Wallpaper in screenshot &lt;a href="https://i.imgur.com/SBKjnxm.jpg" target="_blank" rel="nofollow"> here &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1326271/2159613d6404b04b0ebb587b1c3734aeb2fb1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1326271/2159613d6404b04b0ebb587b1c3734aeb2fb1.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0NTQ5MTkiLCJvIjoiMSIsInMiOiJiMDIxY2QxMWYyMTBmNDMzMzY3NjVjZmY3NmY4ZDQ4YmRmZjE0ZTNiY2U2NjU1ZDk0YzcyZTdjMGM3M2I5Y2E3ZmI2MTE3NGE0ZmY2YTM1MjMxNTFjZGYxNTc0Y2VkYTY5OTczMjQ1MTZkOWQ2NGZmZjQyYjgxYjE5ZDdiNWEyNSIsInQiOjE2NTcwODA2MDcsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ._o15y4GZUCDPsFwcbzo_6Qo643PUgaHzBAXi4R1pZmY/Nordic.colors</payload>
+  <tags>colorscheme,linux,kde,gplv3,theme,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294011</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>80</rating>
+  <downloads>145548</downloads>
+  <installedfile>/home/mjc/.local/share/color-schemes/Sweet.colors</installedfile>
+  <id>1294011</id>
+  <releasedate>2021-07-28</releasedate>
+  <summary>Color scheme for &lt;a href="https://www.opendesktop.org/p/1294013/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+Settings in screenshot:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet Kvantum theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1286856/" target="_blank" rel="nofollow">Sweet aurorae theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294174/" target="_blank" rel="nofollow">Sweet Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to the &lt;a href="https://addons.mozilla.org/es/firefox/addon/sweet-dark/" target="_blank" rel="nofollow">sweet-dark&lt;/a> extension for a better looking or try my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1294011/a319d50cbeb1186fd04564bf38b43bfbc8341.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1294011/a319d50cbeb1186fd04564bf38b43bfbc8341.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjc1MDMwNDIiLCJvIjoiMSIsInMiOiIyODRjOThlZmY0YjgyYzcxZjdkZmU1YWYxODAxMzdkZjM5MmNkNzEyNGI4NDIyNTRjODcwYTZjMDA1ODg0YTRmMTBmZTA2MzYwYmVkNDFkOTVlMmE2N2Y3MjI5YzBhNzAxZWRkNTQ1MGVlNWVmMjZiNTVkZjk4NDQwNTc1ZDQzNyIsInQiOjE2NTc0OTg4NjIsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.lezbwhyRRxXsnWfk1wOH-bLfOz0qAJYEskwa_Q5BOdg/Sweet.colors</payload>
+  <tags>plasma,theme,gplv3,kde,linux,colorscheme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Nordic darker KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1629062</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>56891</downloads>
+  <installedfile>/home/mjc/.local/share/color-schemes/NordicDarker.colors</installedfile>
+  <id>1629062</id>
+  <releasedate>2021-10-28</releasedate>
+  <summary>Nordic darker coloscheme for KDE</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1629062/e993b51bc83f33e12484d08c32ba614be041012bba9ee85e019a3709330ca12d14a2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1629062/e993b51bc83f33e12484d08c32ba614be041012bba9ee85e019a3709330ca12d14a2.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0NTQ5NzAiLCJvIjoiMSIsInMiOiI2YzYwM2ViNzJmN2FlN2FjNTk1ZDY0Zjk1ODY4N2RkMTY4NTk1NzU3M2YyM2I1NDJjMmE4MTJkYjllM2JjYWY4ZjQyMzIzNTYxMDQwZGFhMTc3Mjk5OGM4M2FjNzNiMzdjODRlZjNkOGQyZjVhOTk5M2I1ZDA5NTZiZjVlNDI0ZCIsInQiOjE2NTcwODA2NDgsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.CBJW588nVozFqMFt4HZHyx5VWwe1-Wgs-AatH2bvA64/NordicDarker.colors</payload>
+  <tags>colorscheme,unix,plasma,theme,kde,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Nordic bluish</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1801631</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>5150</downloads>
+  <installedfile>/home/mjc/.local/share/color-schemes/nordicbluish.colors</installedfile>
+  <id>1801631</id>
+  <releasedate>2022-05-21</releasedate>
+  <summary>Nordic bluish color scheme for KDE</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1801631/screenshot-20220520-165548.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1801631/screenshot-20220520-165548.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTMxNjM3MTUiLCJvIjoiMSIsInMiOiI1MjAxMjdkODY1NzA3MjliZmI2NjY3ZGYxNzAzZGJjNTgwYmYyMDVkNTIyYTg2NmU3MzE2ZTgwYTM3NzQ4ZDliNDEzYWVhN2M3ZmUyZjg2YWJlYjk1NWQyMmVhMTViZTkyMTIwOTVmNzBhNmJjOWM3ODc3NDVjNDE2ZjNmMjRhYyIsInQiOjE2NTcwODA2ODIsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.wd1JDenOQLU-ChrH8W0M4FNVcp-TiDdgVVoTsCvEihI/nordicbluish.colors</payload>
+  <tags>kde,linux,gplv3,colorscheme,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Layan color schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325239</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>37707</downloads>
+  <installedfile>/home/mjc/.local/share/color-schemes/LayanLight.colors</installedfile>
+  <installedfile>/home/mjc/.local/share/color-schemes/Layan.colors</installedfile>
+  <id>1325239</id>
+  <releasedate>2022-02-13</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ3NjA0MzUiLCJvIjoiMSIsInMiOiJjMjE5MzZjMjFhNGUyOTIxOWNjYzM3ZDY2ZDg3MzE3YTY2NmUyZTM1YzVkMmFkZWRhZjBhN2RhYjMyMjBlMTIyMTQwNGFlYTIwZmZiMWIwZWE0ODkyN2JlYzMwMWJmY2VkY2FlYWM2NjA4NWE0MDA0NTEwMThkMGY1MTY4MTFlNyIsInQiOjE2NTcwODA0MDUsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.Uwij0GeDqadC5T7PftG_Q5Zs8LqgbM6HHvJ_zIGlNZw/Layan.tar.gz</payload>
+  <tags>unix,colorscheme,theme,original-product,plasma,kde,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

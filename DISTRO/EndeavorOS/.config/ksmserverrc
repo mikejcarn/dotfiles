@@ -1,0 +1,30 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=106d6a630000166440536400000006370005
+clientId2=106d6a630000165844070900000006110006
+clientId3=106d6a630000165981078400000006370009
+clientId4=106d6a630000165981538700000006370010
+count=4
+discardCommand1[$e]=rm,$HOME/.config/session/yakuake_106d6a630000166440536400000006370005_1664974943_119428
+discardCommand2[$e]=rm,-f,$HOME/.cache/sessions/Thunar-106d6a630000165844070900000006110006
+program1=/usr/bin/yakuake
+program2=Thunar
+program3=/usr/bin/qbittorrent
+program4=firefox
+restartCommand1=/usr/bin/yakuake,-session,106d6a630000166440536400000006370005_1664974943_119428
+restartCommand2=Thunar,--sm-client-id,106d6a630000165844070900000006110006,--daemon
+restartCommand3=/usr/bin/qbittorrent,-session,106d6a630000165981078400000006370009_1664974943_124533
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,106d6a630000165981538700000006370010
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=mjc
+userId2=mjc
+userId3=mjc
+userId4=mjc

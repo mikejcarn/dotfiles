@@ -1,0 +1,199 @@
+{"level":30,"time":"2022-09-29T18:34:34.373Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-09-29T18:34:34.373Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T20:06:04.349Z","pid":9810,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664476478174"}
+{"level":30,"time":"2022-09-29T20:06:04.349Z","pid":9810,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664476480846"}
+{"level":30,"time":"2022-09-29T20:35:27.206Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-09-29T20:35:27.209Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T20:35:27.314Z","pid":9810,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-09-29T20:36:55.720Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-09-29T20:36:55.720Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T21:03:14.773Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-09-29T21:03:14.773Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T21:33:12.807Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-09-29T21:33:12.807Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T21:33:13.050Z","pid":9810,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-09-29T21:52:33.031Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-09-29T21:52:33.031Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T21:52:34.833Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-09-29T21:52:34.833Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T22:10:50.985Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-09-29T22:10:50.986Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T22:10:51.078Z","pid":9810,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-09-29T22:12:26.414Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-09-29T22:12:26.416Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T22:12:26.514Z","pid":9810,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-09-29T22:49:56.126Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-09-29T22:49:56.126Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T23:03:40.619Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-09-29T23:03:40.619Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-29T23:03:40.709Z","pid":9810,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-09-29T23:52:08.687Z","pid":9810,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-09-29T23:52:08.687Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-30T20:20:31.499Z","pid":9810,"hostname":"mjc","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-09-30T20:20:31.505Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-09-30T20:20:31.505Z","pid":9810,"hostname":"mjc","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2022-09-30T20:20:31.582Z","pid":9810,"hostname":"mjc","msg":"MainSQL: slow query close duration=71ms"}
+{"level":30,"time":"2022-09-30T20:20:31.583Z","pid":9810,"hostname":"mjc","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2022-09-30T20:20:31.598Z","pid":9810,"hostname":"mjc","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-09-30T20:20:31.598Z","pid":9810,"hostname":"mjc","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2022-09-30T20:20:31.598Z","pid":9810,"hostname":"mjc","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-09-30T20:20:31.609Z","pid":9810,"hostname":"mjc","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2022-09-30T20:20:31.609Z","pid":9810,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":40,"time":"2022-10-02T16:18:31.727Z","pid":58198,"hostname":"mjc","msg":"Problem loading messages for locale en-GB"}
+{"level":40,"time":"2022-10-02T16:18:31.728Z","pid":58198,"hostname":"mjc","msg":"Falling back to parent language: 'en'"}
+{"level":30,"time":"2022-10-02T16:18:31.750Z","pid":58198,"hostname":"mjc","msg":"app ready"}
+{"level":30,"time":"2022-10-02T16:18:31.750Z","pid":58198,"hostname":"mjc","msg":"starting version 5.54.0"}
+{"level":30,"time":"2022-10-02T16:18:31.751Z","pid":58198,"hostname":"mjc","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2022-10-02T16:18:31.751Z","pid":58198,"hostname":"mjc","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2022-10-02T16:18:31.756Z","pid":58198,"hostname":"mjc","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2022-10-02T16:18:31.756Z","pid":58198,"hostname":"mjc","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-10-02T16:18:31.757Z","pid":58198,"hostname":"mjc","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":30,"time":"2022-10-02T16:18:31.758Z","pid":58198,"hostname":"mjc","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":952,\"height\":1048,\"minWidth\":712,\"minHeight\":550,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"titleBarOverlay\":false,\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":false,\"enablePreferredSizeMode\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":4,\"y\":28}"}
+{"level":30,"time":"2022-10-02T16:18:31.866Z","pid":58198,"hostname":"mjc","msg":"spellcheck: user locale: en-GB"}
+{"level":30,"time":"2022-10-02T16:18:31.866Z","pid":58198,"hostname":"mjc","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2022-10-02T16:18:31.866Z","pid":58198,"hostname":"mjc","msg":"spellcheck: setting languages to:  [\"en-GB\"]"}
+{"level":30,"time":"2022-10-02T16:18:31.867Z","pid":58198,"hostname":"mjc","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2022-10-02T16:18:31.882Z","pid":58198,"hostname":"mjc","msg":"MainSQL: updateSchema:\n  Current user_version: 65;\n  Most recent db schema: 65;\n  SQLite version: 3.37.2;\n  SQLCipher version: 4.5.1 community;\n  (deprecated) schema_version: 287;\n"}
+{"level":30,"time":"2022-10-02T16:18:31.882Z","pid":58198,"hostname":"mjc","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-10-02T16:18:31.901Z","pid":58198,"hostname":"mjc","msg":"System tray service: created"}
+{"level":30,"time":"2022-10-02T16:18:31.901Z","pid":58198,"hostname":"mjc","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2022-10-02T16:18:31.901Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-02T16:18:31.902Z","pid":58198,"hostname":"mjc","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-10-02T16:18:31.908Z","pid":58198,"hostname":"mjc","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2022-10-02T16:18:31.909Z","pid":58198,"hostname":"mjc","msg":"Finish ensuring permissions in 7ms"}
+{"level":30,"time":"2022-10-02T16:18:33.722Z","pid":58198,"hostname":"mjc","msg":"main window is ready-to-show"}
+{"level":30,"time":"2022-10-02T16:18:33.722Z","pid":58198,"hostname":"mjc","msg":"showing main window"}
+{"level":30,"time":"2022-10-02T16:18:33.729Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-02T16:18:34.291Z","pid":58198,"hostname":"mjc","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":952,\"height\":1048,\"x\":8,\"y\":28}"}
+{"level":30,"time":"2022-10-02T16:18:34.294Z","pid":58198,"hostname":"mjc","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-10-02T16:18:34.294Z","pid":58198,"hostname":"mjc","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2022-10-02T16:18:34.547Z","pid":58198,"hostname":"mjc","msg":"sending `database-ready`"}
+{"level":30,"time":"2022-10-02T16:18:34.686Z","pid":58198,"hostname":"mjc","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2022-10-02T16:18:35.154Z","pid":58198,"hostname":"mjc","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":952,\"height\":1048,\"x\":4,\"y\":28}"}
+{"level":30,"time":"2022-10-02T16:18:35.154Z","pid":58198,"hostname":"mjc","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-10-02T16:18:35.155Z","pid":58198,"hostname":"mjc","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2022-10-02T16:18:36.107Z","pid":58198,"hostname":"mjc","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2022-10-02T16:18:36.159Z","pid":58198,"hostname":"mjc","msg":"App loaded - time: 4416"}
+{"level":30,"time":"2022-10-02T16:18:36.159Z","pid":58198,"hostname":"mjc","msg":"SQL init - time: 139"}
+{"level":30,"time":"2022-10-02T16:18:36.159Z","pid":58198,"hostname":"mjc","msg":"Preload - time: 966"}
+{"level":30,"time":"2022-10-02T16:18:36.159Z","pid":58198,"hostname":"mjc","msg":"WebSocket connect - time: 1423"}
+{"level":30,"time":"2022-10-02T16:18:36.159Z","pid":58198,"hostname":"mjc","msg":"Processed count: 128"}
+{"level":30,"time":"2022-10-02T16:18:36.159Z","pid":58198,"hostname":"mjc","msg":"Messages per second: 63.147508633448446"}
+{"level":30,"time":"2022-10-03T12:25:49.559Z","pid":58198,"hostname":"mjc","msg":"MainSQL: slow query saveMessages duration=41ms"}
+{"level":30,"time":"2022-10-03T12:25:50.812Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-03T12:25:50.812Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:26:31.118Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 5"}
+{"level":30,"time":"2022-10-03T20:26:31.119Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:26:32.065Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:26:53.751Z","pid":58198,"hostname":"mjc","msg":"MainSQL: slow query getUnreadByConversationAndMarkRead duration=44ms"}
+{"level":30,"time":"2022-10-03T20:26:53.984Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2022-10-03T20:26:53.984Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:26:54.985Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-03T20:26:54.985Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:27:30.834Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664828847732"}
+{"level":30,"time":"2022-10-03T20:27:41.387Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664828860060"}
+{"level":30,"time":"2022-10-03T20:27:52.871Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664828871641"}
+{"level":30,"time":"2022-10-03T20:28:17.041Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664828895778"}
+{"level":30,"time":"2022-10-03T20:28:41.702Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664828919352"}
+{"level":30,"time":"2022-10-03T20:29:15.993Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-10-03T20:29:15.994Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:29:16.097Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:29:22.421Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2022-10-03T20:29:22.421Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:29:22.505Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:29:34.252Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 4"}
+{"level":30,"time":"2022-10-03T20:29:34.252Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:29:34.342Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:29:48.134Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 5"}
+{"level":30,"time":"2022-10-03T20:29:48.135Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:29:48.214Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:29:52.619Z","pid":58198,"hostname":"mjc","msg":"MainSQL: slow query getUnreadByConversationAndMarkRead duration=46ms"}
+{"level":30,"time":"2022-10-03T20:29:52.717Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-03T20:29:52.717Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:29:54.711Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664828993534"}
+{"level":30,"time":"2022-10-03T20:30:02.008Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664829000713"}
+{"level":30,"time":"2022-10-03T20:30:22.846Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664829021638"}
+{"level":30,"time":"2022-10-03T20:31:47.472Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664829100774"}
+{"level":30,"time":"2022-10-03T20:31:58.625Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664829117370"}
+{"level":30,"time":"2022-10-03T20:32:19.884Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-03T20:32:19.884Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:45:15.060Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-03T20:45:15.060Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:45:15.141Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:45:18.524Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-10-03T20:45:18.524Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:45:18.611Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:46:15.943Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-03T20:46:15.943Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:46:26.072Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664829984576"}
+{"level":30,"time":"2022-10-03T20:46:32.574Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664829991551"}
+{"level":30,"time":"2022-10-03T20:47:48.757Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-03T20:47:48.758Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:47:48.850Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-03T20:54:46.579Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-03T20:54:46.579Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-03T20:54:58.910Z","pid":58198,"hostname":"mjc","msg":"MainSQL: deleteSentProtoRecipient: Deleting proto payload for timestamp 1664830493932"}
+{"level":30,"time":"2022-10-04T01:04:08.004Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-04T01:04:08.005Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T01:04:08.098Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T01:05:02.414Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-10-04T01:05:02.415Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T01:05:02.543Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T01:07:17.567Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-04T01:07:17.567Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":40,"time":"2022-10-04T17:18:10.345Z","pid":58198,"hostname":"mjc","msg":"MainSQL: getAllUnprocessedAndIncrementAttempts: deleting 1 invalid unprocessed envelopes"}
+{"level":30,"time":"2022-10-04T17:39:57.326Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-04T17:39:57.326Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T17:39:57.428Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T17:40:18.877Z","pid":58198,"hostname":"mjc","msg":"MainSQL: slow query getUnreadByConversationAndMarkRead duration=46ms"}
+{"level":30,"time":"2022-10-04T17:40:18.955Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-04T17:40:18.955Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T17:47:46.878Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-04T17:47:46.878Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T17:47:46.992Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T18:04:07.360Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-04T18:04:07.361Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:52:29.296Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-04T19:52:29.296Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:52:29.392Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T19:52:37.565Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-10-04T19:52:37.565Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:52:37.653Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T19:52:52.091Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2022-10-04T19:52:52.092Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:52:52.183Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T19:54:00.151Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-10-04T19:54:00.151Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:54:01.153Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-04T19:54:01.153Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:56:14.348Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-04T19:56:14.349Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T19:56:14.432Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T19:56:16.570Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-04T19:56:16.570Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T23:23:13.562Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-04T23:23:13.563Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-04T23:23:13.657Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-04T23:24:41.932Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-04T23:24:41.932Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T00:34:12.156Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-05T00:34:12.156Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T00:34:12.271Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-05T00:43:33.824Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-05T00:43:33.824Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T00:54:57.173Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-05T00:54:57.174Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T00:54:57.278Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-05T00:55:36.617Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-10-05T00:55:36.617Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T00:55:36.699Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-05T00:55:44.169Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 3"}
+{"level":30,"time":"2022-10-05T00:55:44.169Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T00:55:44.267Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-05T01:02:15.537Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-05T01:02:15.537Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T01:03:56.247Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-10-05T01:03:56.247Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-10-05T01:03:56.384Z","pid":58198,"hostname":"mjc","msg":"Approving request for permission 'notifications'"}
+{"level":30,"time":"2022-10-05T03:59:15.126Z","pid":58198,"hostname":"mjc","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-10-05T03:59:15.130Z","pid":58198,"hostname":"mjc","msg":"System tray service: rendering no tray"}

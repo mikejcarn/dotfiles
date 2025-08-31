@@ -1,0 +1,11 @@
+# Unbind existing scroll operations
+prev_img
+next_img
+scroll_up
+scroll_down
+
+# Set <action> <mouse button>
+zoom_in C-4
+zoom_out C-5
+scroll_up 4
+scroll_down 5

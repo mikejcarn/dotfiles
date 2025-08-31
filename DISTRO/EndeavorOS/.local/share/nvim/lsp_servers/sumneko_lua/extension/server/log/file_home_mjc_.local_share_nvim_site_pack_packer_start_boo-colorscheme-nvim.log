@@ -1,0 +1,133 @@
+[11:11:53.927][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[11:11:53.927][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[11:11:53.927][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[11:11:53.927][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[11:11:53.927][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.5.2
+[11:11:53.951][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.548 MB
+        # 00 : 1.548 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:11:54.059][info] [#0:script/language.lua:137]: VSC language: nil
+[11:11:54.059][info] [#0:script/language.lua:138]: LS  language: en-us
+[11:11:54.059][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.059][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_mjc_.local_share_nvim_site_pack_packer_start_boo-colorscheme-nvim.log
+[11:11:54.059][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.168][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.169][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[11:11:54.170][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.170][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[11:11:54.171][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[11:11:54.172][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[11:11:54.172][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.197][info] [#0:script/plugin.lua:86]: plugin path:	/home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.197][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.197][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[11:11:54.210][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[11:11:54.210][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[11:11:54.210][info] [#0:script/workspace/workspace.lua:305]: Preload start:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.211][info] [#0:script/workspace/workspace.lua:311]: Scan files at:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:54.212][info] [#0:script/workspace/workspace.lua:305]: Preload start:	<fallback>
+[11:11:54.212][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[11:11:54.215][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[11:11:54.219][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[11:11:54.222][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[11:11:54.224][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[11:11:54.226][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[11:11:55.973][info] [#0:script/workspace/workspace.lua:348]: Found 64 files at:	<fallback>
+[11:11:55.973][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[11:11:55.973][info] [#0:script/workspace/workspace.lua:348]: Found 73 files at:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:55.973][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:57.975][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.049] sec: <fallback>
+[11:11:57.975][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[11:11:57.975][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[11:11:57.975][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	<fallback>
+[11:11:57.989][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.063] sec: file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:57.989][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:57.989][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:57.989][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim
+[11:11:58.442][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[11:11:58.443][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[73]
+[11:11:58.443][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim], files count:[73]
+[11:11:58.444][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[11:11:58.686][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.243] sec.
+[11:11:58.686][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/.local/share/nvim/site/pack/packer/start/boo-colorscheme-nvim] finished, takes [0.243] sec.
+[11:12:57.358][info] [#0:script/provider/provider.lua:168]: Server shutdown.
+[11:12:57.460][info] [#0:script/provider/provider.lua:161]: Server exited.

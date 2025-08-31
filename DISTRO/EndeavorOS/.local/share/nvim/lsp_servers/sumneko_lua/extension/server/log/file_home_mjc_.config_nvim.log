@@ -1,0 +1,199 @@
+[10:58:44.559][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[10:58:44.560][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[10:58:44.560][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[10:58:44.560][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[10:58:44.560][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.5.2
+[10:58:44.584][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.548 MB
+        # 00 : 1.548 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[10:58:44.694][info] [#0:script/language.lua:137]: VSC language: nil
+[10:58:44.694][info] [#0:script/language.lua:138]: LS  language: en-us
+[10:58:44.694][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mjc/.config/nvim
+[10:58:44.694][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_mjc_.config_nvim.log
+[10:58:44.694][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/mjc/.config/nvim
+[10:58:44.804][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/.config/nvim
+[10:58:44.805][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[10:58:44.806][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/.config/nvim
+[10:58:44.806][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[10:58:44.808][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[10:58:44.808][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[10:58:44.808][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/mjc/.config/nvim
+[10:58:44.835][info] [#0:script/plugin.lua:86]: plugin path:	/home/mjc/.config/nvim
+[10:58:44.835][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/mjc/.config/nvim
+[10:58:44.835][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[10:58:44.848][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[10:58:44.848][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[10:58:46.604][info] [#0:script/workspace/workspace.lua:305]: Preload start:	file:///home/mjc/.config/nvim
+[10:58:46.605][info] [#0:script/workspace/workspace.lua:311]: Scan files at:	file:///home/mjc/.config/nvim
+[10:58:46.606][info] [#0:script/workspace/workspace.lua:305]: Preload start:	<fallback>
+[10:58:46.606][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[10:58:46.609][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[10:58:46.611][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[10:58:46.612][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[10:58:46.613][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[10:58:46.616][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[10:58:48.605][info] [#0:script/workspace/workspace.lua:348]: Found 67 files at:	<fallback>
+[10:58:48.605][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[10:58:48.605][info] [#0:script/workspace/workspace.lua:348]: Found 91 files at:	file:///home/mjc/.config/nvim
+[10:58:48.605][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/.config/nvim
+[10:58:50.607][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.116] sec: <fallback>
+[10:58:50.607][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[10:58:50.607][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[10:58:50.607][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	<fallback>
+[10:58:50.618][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.127] sec: file:///home/mjc/.config/nvim
+[10:58:50.618][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/.config/nvim
+[10:58:50.618][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/.config/nvim
+[10:58:50.618][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	file:///home/mjc/.config/nvim
+[10:58:51.064][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[10:58:51.064][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[10:58:51.065][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[69]
+[10:58:51.065][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/.config/nvim], files count:[69]
+[10:58:51.295][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.230] sec.
+[10:58:51.295][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/.config/nvim] finished, takes [0.230] sec.
+[11:08:44.795][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 43.808 MB
+        # 00 : 41.273 MB
+        # 01 : 0.698 MB
+        # 02 : 0.495 MB
+        # 03 : 0.643 MB
+        # 04 : 0.698 MB
+    --------------- Coroutine ---------------
+        Total:     488
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      488
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:18:45.504][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 44.437 MB
+        # 00 : 41.902 MB
+        # 01 : 0.698 MB
+        # 02 : 0.495 MB
+        # 03 : 0.643 MB
+        # 04 : 0.698 MB
+    --------------- Coroutine ---------------
+        Total:     488
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      488
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:28:45.678][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 45.068 MB
+        # 00 : 42.533 MB
+        # 01 : 0.698 MB
+        # 02 : 0.495 MB
+        # 03 : 0.643 MB
+        # 04 : 0.698 MB
+    --------------- Coroutine ---------------
+        Total:     488
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      488
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:29:47.799][info] [#0:script/provider/provider.lua:168]: Server shutdown.
+[11:29:47.900][info] [#0:script/provider/provider.lua:161]: Server exited.

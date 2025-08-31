@@ -1,0 +1,29 @@
+[Appearance]
+BackgroundColor=20,11,43
+HideSkinBorders=true
+
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Dialogs]
+FirstRun=false
+
+[KFileDialog Settings]
+Recent Files[$e]=materia-otto.tar.gz,file:$HOME/.yakuake-skins/materia-otto.tar.gz
+Recent URLs[$e]=file:$HOME/.yakuake-skins/
+detailViewIconSize=16
+
+[Notification Messages]
+ShowPasteHugeTextWarning=false
+hinding_title_bar=false
+
+[Shortcuts]
+split-top-bottom=Ctrl+Return
+
+[Window]
+Height=100
+KeepAbove=false
+Position=100
+ShowTabBar=false
+ShowTitleBar=false
+Width=50

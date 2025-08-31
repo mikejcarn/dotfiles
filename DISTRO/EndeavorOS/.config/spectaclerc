@@ -1,0 +1,9 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+cropRegion=85,141,1762,825
+window-position=50,50
+
+[Save]
+lastSaveLocation=file:///home/mjc/Pictures/Screenshot_20220824_135259.png

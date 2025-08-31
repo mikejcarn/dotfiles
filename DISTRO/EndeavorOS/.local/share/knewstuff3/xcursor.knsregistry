@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Layan cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1365214</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>366104</downloads>
+  <installedfile>/home/mjc/.icons/Layan-border-cursors/*</installedfile>
+  <id>1365214</id>
+  <releasedate>2020-03-30</releasedate>
+  <summary>Layan cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODUxMTQ4NDgiLCJvIjoiMSIsInMiOiI4N2MwMWJjMDdjZjQyYjYwNjExZWM2ODE1NTcyYTgyYTA2MWUzZjAyMzNiNDM2OTEwMWM3M2UxZDlhNzYzMzZkMDU4OTllMDlhYjQ4MTg4YzYxYjJlYzcwM2U2MDdjMzZiMjI2NGE3ZDVkYjg5YWFmNWY0NDdhZTI2YzhmYjdkMCIsInQiOjE2NTcwODA0MzksInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.kptONvttXq6uhPGZkYA6iYYnFI5fPUaFueRlzryQzB0/01-Layan-border-cursors.tar.xz</payload>
+  <tags>cursor,gplv3,linux,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Nordic cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1662218</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>49185</downloads>
+  <installedfile>/home/mjc/.icons/Nordic-cursors/*</installedfile>
+  <id>1662218</id>
+  <releasedate>2021-12-09</releasedate>
+  <summary>Cursors theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1662218/1ff6e2cb74570d61fdcc5739faab69fbe5cd5f982adc440e5e6ff91d8ffe967666df1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1662218/1ff6e2cb74570d61fdcc5739faab69fbe5cd5f982adc440e5e6ff91d8ffe967666df1.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzkwODYwOTUiLCJvIjoiMSIsInMiOiJlODc2YTk3MWVmOTZjYWQyODliYzFjZTZiOWM1ODE1YTA1ZDQ2NjViZjVhZTFmMjQzMTVhOWIxMTFiZDEyNTgzMzFmOGMxNGFkNmFlNDViMGI3OTMzNDViZDIyOTE4MDFjNjUyMGNmZjhhNTQzOTYxYzgyOGI1OTMyYjhlNDY5ZCIsInQiOjE2NTcwODA2MzUsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.15UeGvO2Sj3YExUF6CN4zOPpSvEZLLLLBuMldd8Jx94/Nordic-cursors.tar.xz</payload>
+  <tags>linux,gplv3,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Sweet cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393084</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>365705</downloads>
+  <installedfile>/home/mjc/.icons/Sweet-cursors/*</installedfile>
+  <id>1393084</id>
+  <releasedate>2020-06-12</releasedate>
+  <summary>Cursor theme with some gradients to fit my sweet themes, based on breeze</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTE5OTM4NTUiLCJvIjoiMSIsInMiOiI4OGRiNzlhNTcyMDY0NjIyNWNkNzQwMmE0MzE1MDE1N2I0MmZiNmRhZTdmNTliYTU4ZGU3YTg2MGQxMTM1YWZkMmQ1MjljZDhiMWM1Yzc5YjY4ZDBmMzMzODY1ZDdmNTE0MDQwZmIzZjUzMzVhOGRjM2Y2YzYxMmUzMTg1OWYzOSIsInQiOjE2NTc0OTg5MDAsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.Q6Yf5EK83Iezf8-BruZdRyIid394cKqeujKDVMnLeYE/Sweet-cursors.tar.xz</payload>
+  <tags>cursor,gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

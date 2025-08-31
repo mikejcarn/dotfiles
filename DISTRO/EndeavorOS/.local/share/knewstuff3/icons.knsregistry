@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Nordic folders</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1733012</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>23183</downloads>
+  <installedfile>/home/mjc/.local/share/icons/Nordic-green/*</installedfile>
+  <installedfile>/home/mjc/.local/share/icons/Nordic-darker/*</installedfile>
+  <installedfile>/home/mjc/.local/share/icons/Nordic-bluish/*</installedfile>
+  <id>1733012</id>
+  <releasedate>2022-03-20</releasedate>
+  <summary> Foders for nordic theme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1733012/nordicfolders.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1733012/nordicfolders.jpg</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDc4MTU4NTUiLCJvIjoiMSIsInMiOiI5MzU0MzhmYTFmNWY1N2ZmYTI4NTVhMDkwYWM0ZGU4MjBiNjI1NDQwNzNkNDA1YWQ5NGE4M2M0MDJiN2Y0MjA1MDMyOGZlYWI2MmVjNTViYzJhZTgyOTZjYzU2OGY2NzYxMjU1MjliNzQzNmVhOGQ0OTMwOTMzYTU3YzA2YmZjMyIsInQiOjE2NTcwODA2NzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.mrtuReniek8ZE8Mgz7poGe5EM2CAmIjtp3n4Y9YjDZM/Nordic-folders.tar.xz</payload>
+  <tags>original-product,unix,gplv3,icon-theme,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela-icon-theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1279924</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>2339</downloads>
+  <installedfile>/home/mjc/.local/share/icons/Tela/*</installedfile>
+  <installedfile>/home/mjc/.local/share/icons/Tela-dark/*</installedfile>
+  <id>1279924</id>
+  <releasedate>2022-07-04</releasedate>
+  <summary>&lt;strong> Tela Icon Theme &lt;/strong>&lt;br />
+A flat colorful Design icon theme&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong> Full circular version &lt;/strong>&lt;br />
+Tela-circle: &lt;br />
+&lt;a href="https://www.gnome-look.org/p/1359276/" target="_blank" rel="nofollow">https://www.gnome-look.org/p/1359276/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong> Based on &lt;/strong>&lt;br />
+1. numix-icon-theme-circle: &lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme: &lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme: &lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Github&lt;/strong>: &lt;a href="https://github.com/vinceliuice/Tela-icon-theme" target="_blank" rel="nofollow">https://github.com/vinceliuice/Tela-icon-theme&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Donation&lt;/strong>: &lt;a href="https://www.paypal.me/vinceliuice" target="_blank" rel="nofollow">https://www.paypal.me/vinceliuice&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY5NTM4NzIiLCJvIjoiMSIsInMiOiJhYjVhMTNlMjAwNDYzMWEwN2JhZmE2YzI3MWMyYTY0YWQ1NGIzOTc3OWM2YWUwN2FkMGI1NmRmOTUzMzkwMWY0YTgyZjFiMGE2NTg2NWZlZmUyYzAwZmJjN2UzMzc4NTQ0NWM4NTFjM2I3ZGY2MjYwOGQ3YzIwMDMxNTViZjYwOCIsInQiOjE2NTcwODA0MTYsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.ro9OfQ3PZlPZLRq8tmUgG9zOr9J7BaNq4HvGh856yNc/01-Tela.tar.xz</payload>
+  <tags>linux,icon-theme,gplv3,unix,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.4.6</version>
+  <rating>94</rating>
+  <downloads>22030</downloads>
+  <installedfile>/home/mjc/.local/share/icons/candy-icons/*</installedfile>
+  <id>1305251</id>
+  <releasedate>2022-06-29</releasedate>
+  <summary>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/" target="_blank" rel="nofollow">sweet-folders&lt;/a> as shown in the second screenshot&lt;br />
+&lt;br />
+&lt;strong>Note&lt;/strong>&lt;br />
+&lt;br />
+To request for icons please &lt;a href="https://github.com/EliverLara/candy-icons/issues" target="_blank" rel="nofollow">open an issue&lt;/a> on github, or if you want to contribute open a &lt;a href="https://github.com/EliverLara/candy-icons/pulls" target="_blank" rel="nofollow">pull request&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY1Mzc3OTIiLCJvIjoiMSIsInMiOiJkYjVmNTljZjY0Y2YxOGVmMmU5Njg0YjI1MmNhOTUxZGM4ZjI4YjU3MDE5ODg5NzAzYzdiMjhkMmUwYzdhN2M4ZGVhZTM5NzEyOGJjMmI5OTAwNjk1YjBiMDZiMmFmZGVjMGZiNjJmMmE2NGYzNDc0MTBjYmFiMzgxNDljMDE1ZCIsInQiOjE2NTc0OTg4NzUsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.8JJ0pyKpE5z7o2lvjUiJ8YISm24SJCS-2u6duX1dPYI/candy-icons.tar.xz</payload>
+  <tags>linux,icon-theme,gplv3,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

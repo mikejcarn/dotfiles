@@ -1,0 +1,19 @@
+{
+    "id": "c78f98e67bb0b6a6aea9f76013d71ea4",
+    "metadata": {
+        "fullname": "xrandr-SANTAK CORP.-S2-TEK TV-SN-000000001",
+        "name": "HDMI1"
+    },
+    "mode": {
+        "refresh": 30,
+        "size": {
+            "height": 2160,
+            "width": 3840
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

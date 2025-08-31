@@ -1,0 +1,52 @@
+[
+    {
+        "enabled": true,
+        "id": "9e0d96f539d7f80d008e7c1add39e40f",
+        "metadata": {
+            "fullname": "xrandr-AU Optronics",
+            "name": "eDP1"
+        },
+        "mode": {
+            "refresh": 60.049468994140625,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    },
+    {
+        "enabled": true,
+        "id": "c78f98e67bb0b6a6aea9f76013d71ea4",
+        "metadata": {
+            "fullname": "xrandr-SANTAK CORP.-S2-TEK TV-SN-000000001",
+            "name": "HDMI1"
+        },
+        "mode": {
+            "refresh": 30,
+            "size": {
+                "height": 2160,
+                "width": 3840
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 1920,
+            "y": 0
+        },
+        "primary": false,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]

@@ -1,0 +1,21 @@
+# Keyboard Shortcuts # --------------------------
+
+# Unset Keys ------------------------------------
+next_img
+prev_img
+zoom_in
+zoom_out
+scroll_right 
+scroll_left 
+scroll_up 
+scroll_down 
+
+# Key Mappings ----------------------------------
+zoom_in Up i
+zoom_out Down n
+scroll_up k
+scroll_down j
+scroll_left h
+scroll_right l
+next_img Right space
+prev_img Left

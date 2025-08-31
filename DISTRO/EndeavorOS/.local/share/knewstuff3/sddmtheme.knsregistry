@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Nordic darker sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1839347</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1289</downloads>
+  <installedfile>/tmp/Nordic-darker.tar.xz</installedfile>
+  <id>1839347</id>
+  <releasedate>2022-06-27</releasedate>
+  <summary>Nordic darker sddm is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1633675/" target="_blank" rel="nofollow"> Nordic global theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1633673v/" target="_blank" rel="nofollow"> Nordic darker Plasma theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic darker Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1629062/" target="_blank" rel="nofollow">Nordic darker color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1733012/" target="_blank" rel="nofollow"> Folders &lt;/a>&lt;br />
+&lt;br />
+Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" target="_blank" rel="nofollow"> here &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1839347/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1839347/preview.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTYzNjY2NTUiLCJvIjoiMSIsInMiOiJhZmZjYTliNzhiOTQ0YjBjMjZmMTNjYjA2ZGFkY2EzYzBhM2FkNWMxNzhjNzNmNDQzNGUyMmE1ZGYxNjMwMWU1NDFkM2I2Mzc0ODA2NWQ2MjM1Y2I5ODdhMDVhOTRlNjg3NTcyNGNjMjllMTVmZGM4Y2Y4Yjg3NGVjNDVlZjY2OSIsInQiOjE2NTcwODA2NjAsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.awVX75W5qWQdemdfv2pb67xZEfMOqFEOmUaYDIKB0Mk/Nordic-darker.tar.xz</payload>
+  <tags>unix,original-product,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Layan sddm theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325235</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>282576</downloads>
+  <installedfile>/tmp/Layan.tar.xz</installedfile>
+  <id>1325235</id>
+  <releasedate>2020-05-19</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325235/19c7409c748b2506cbac54246062cc9bc3181.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325235/19c7409c748b2506cbac54246062cc9bc3181.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk4Nzc0NTAiLCJvIjoiMSIsInMiOiJmMTVhMzE1M2ZjNjc5YjUwMDA1ZGRmNDM5ZGMxNjJiNjgzZjllZGJhMDA4ODU2N2RiOGI4MzM5NGZkN2RhMzVkMGUwODA4YjgwNWNkMDA4ZjlkMjdlZjZjN2JlNDVhYWZmMTZlMTQxMWFkZmZhNGQ1MGE4NjVkOTU0YWQ2MGFkZSIsInQiOjE2NTcwODA0MjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.L9Z1zFm5w9C2HA1-RrWtAcYY2aKGlm-3N175Qy6Dy9w/Layan.tar.xz</payload>
+  <tags>unix,original-product,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Sweet sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1334945</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>81</rating>
+  <downloads>4377</downloads>
+  <installedfile>/tmp/sweet.tar.xz</installedfile>
+  <id>1334945</id>
+  <releasedate>2022-06-26</releasedate>
+  <summary>Colorful sddm theme to fit my &lt;a href="https://store.kde.org/p/1294729/" target="_blank" rel="nofollow"> Sweet theme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1334945/634b8f876ef80d3dd23d9308986ec9a55e031.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1334945/634b8f876ef80d3dd23d9308986ec9a55e031.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTYyODAzMjEiLCJvIjoiMSIsInMiOiI3ZjdiOTBlYjljMjQ4ZGQzODY5OTU5ODkzNTFkZDIxMjgxOGZlNDJlNDZkMjU2OTI4NmMwZGUwY2EzZjk4NDM3N2YyYWZjZjg1MTc4NTVkODNjZDk3OTYyMzhjNDY4ZDAzMTcxNmE1NzdhOThjNzIyZWRlMTc5M2FlNGM5NmI1NiIsInQiOjE2NTc0OTg4ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.LX-jjpT66yIc42B4yZaxsROp0_TSWp-QLri9FChHVrA/sweet.tar.xz</payload>
+  <tags>gplv3,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Nordic sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1366843</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>6502</downloads>
+  <installedfile>/tmp/Nordic.tar.xz</installedfile>
+  <id>1366843</id>
+  <releasedate>2022-06-06</releasedate>
+  <summary>Nordic is a dark sddm theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1327093/" target="_blank" rel="nofollow"> Global theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326271/" target="_blank" rel="nofollow">Nordic color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246" target="_blank" rel="nofollow"> Folders &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1366843/09f552f6f51d7fc97a9c26690257bc9f0d57.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1366843/09f552f6f51d7fc97a9c26690257bc9f0d57.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTQ1NDk4NzEiLCJvIjoiMSIsInMiOiI3ZWQwZGY5OWY3NmEyM2YzZGI4MTBjYjQ3MDlhODQwYzAyOWI4ZTdhMzdhM2ZlZjRhNjk5Y2JlZjVkNzA2YmNkYjQ0NGFmMjlmMWQxZDhkNzEwODc3OGI3NzA4Y2Q3YmQ5ZDI4OTA1MTY0MWI2MjRhMGE1NzQ4M2Q2NDI2YzU5NyIsInQiOjE2NTcwODA2MjUsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.ERR5F5hee4386BuxPRsghXoVxtqF6hChjVYeOoNwcrE/Nordic.tar.xz</payload>
+  <tags>unix,gplv3,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

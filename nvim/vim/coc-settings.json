@@ -1,0 +1,34 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "scss",
+    "markdown",
+    "javascript",
+    "jsx",
+    "javascriptreact",
+    "graphql",
+    "html",
+    "php",
+    "yaml",
+    "json",
+    "python",
+    "py",
+    "ejs"
+  ],
+
+  "prettier.arrowParens": "avoid",
+  "prettier.semi": false,
+
+  "python.formatting.provider": "black",
+  "python.formatting.blackPath": "~/.local/bin/black",
+
+  "tsserver.enable": true,
+  "typescript.suggestionActions.enabled": false,
+
+  "javascript.suggestionActions.enabled": false,
+
+  "css.enable": true,
+  "css.lint.unknownAtRules": "ignore",
+
+  "snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/utils/snips"]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Layan look and feel theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325243</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>3614</downloads>
+  <installedfile>/home/mjc/.local/share/plasma/look-and-feel/com.github.vinceliuice.Layan</installedfile>
+  <id>1325243</id>
+  <releasedate>2022-06-28</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+For better experience you need this&lt;br />
+&lt;strong>kvantum theme&lt;/strong>: Layan &lt;br />
+&lt;a href="https://www.pling.com/p/1325246/" target="_blank" rel="nofollow">https://www.pling.com/p/1325246/&lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY0MjgzMzkiLCJvIjoiMSIsInMiOiIyNDdiYThhYWU1MjM0YzJiOGU2NTgxNTMxY2VlNTE1MDM2ZTg1NjA2NTcxNWRlOGY3MTJjNmRlNzBhNzg3MzM3ZGRiMzhiMWZmMDZlZDU3ZTVmZGNmYTVjZjUzYmNmMGE3NWU1NjUyZWZhZmMyODc2NTQ1MDFlMmZjMzYyOGFlOSIsInQiOjE2NTcwODA0MDAsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.PbrnXlJEZq_xUtaPdHq1xm2gFpgX0rHjM0ObqUIFkSI/com.github.vinceliuice.Layan.tar.gz</payload>
+  <tags>original-product,plasma,theme,kde,gplv3,linux,look-and-feel,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Nordic bluish KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1801667</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1251</downloads>
+  <installedfile>/home/mjc/.local/share/plasma/look-and-feel/Nordic-bluish</installedfile>
+  <id>1801667</id>
+  <releasedate>2022-06-29</releasedate>
+  <summary>Nordic bluish is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1801641/" target="_blank" rel="nofollow"> Nordic bluish Plasma theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic bluish Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1801631/" target="_blank" rel="nofollow">Nordic bluish color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246" target="_blank" rel="nofollow"> Folders &lt;/a>&lt;br />
+&lt;br />
+Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" target="_blank" rel="nofollow"> here &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1801667/preview-bluish.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1801667/preview-bluish.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY0NjUxMTgiLCJvIjoiMSIsInMiOiIyYTE2MDQxZDA5YjEwM2QxZjE3MjcwYjExN2Y5ZWRmOTMwMWZlYmQ5MDJhYTRkZTYyOTE4M2E3MWNmNWIwOTJjOGJhOTdlZWY3MWEwYTRjMWQ4OGMzNWExMDYzNWI3MDFiZDA3NGRhZjQzNjJjYjUwZmUwYmJkMjI1NmZmMGVjYyIsInQiOjE2NTcwODA2NzYsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.S1UX9UKlUeXMCdwCxtDuj8REq607I9ts2E3fsnlpHqw/Nordic-bluish.tar.xz</payload>
+  <tags>unix,plasma,theme,gplv3,linux,look-and-feel,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

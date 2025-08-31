@@ -1,0 +1,372 @@
+[13:48:46.827][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[13:48:46.828][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[13:48:46.828][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[13:48:46.828][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[13:48:46.828][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.5.2
+[13:48:46.856][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.548 MB
+        # 00 : 1.548 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[13:48:46.967][info] [#0:script/language.lua:137]: VSC language: nil
+[13:48:46.967][info] [#0:script/language.lua:138]: LS  language: en-us
+[13:48:46.967][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:46.968][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_mjc_Desktop_dotfiles-public_.config_nvim.log
+[13:48:46.973][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.180][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.180][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[13:48:47.180][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.180][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[13:48:47.281][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[13:48:47.282][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[13:48:47.282][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.319][info] [#0:script/plugin.lua:86]: plugin path:	/home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.319][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.319][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[13:48:47.334][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[13:48:47.334][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[13:48:47.335][info] [#0:script/workspace/workspace.lua:305]: Preload start:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.335][info] [#0:script/workspace/workspace.lua:311]: Scan files at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:47.336][info] [#0:script/workspace/workspace.lua:305]: Preload start:	<fallback>
+[13:48:47.336][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[13:48:47.339][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[13:48:47.341][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[13:48:47.342][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[13:48:47.344][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[13:48:47.346][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[13:48:48.873][info] [#0:script/workspace/workspace.lua:348]: Found 67 files at:	<fallback>
+[13:48:48.873][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[13:48:48.873][info] [#0:script/workspace/workspace.lua:348]: Found 95 files at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:48.873][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:50.873][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.079] sec: <fallback>
+[13:48:50.873][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[13:48:50.873][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[13:48:50.873][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	<fallback>
+[13:48:50.915][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.121] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:50.916][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:50.916][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:50.916][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[13:48:51.378][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[13:48:51.378][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[13:48:51.379][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[95]
+[13:48:51.379][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim], files count:[95]
+[13:48:51.578][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.199] sec.
+[13:48:51.578][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim] finished, takes [0.199] sec.
+[13:58:47.037][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 52.903 MB
+        # 00 : 50.465 MB
+        # 01 : 0.698 MB
+        # 02 : 0.499 MB
+        # 03 : 0.698 MB
+        # 04 : 0.543 MB
+    --------------- Coroutine ---------------
+        Total:     626
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      626
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:06:43.175][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/lspsaga.lua
+[14:06:43.176][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:06:43.177][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.002] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:06:43.177][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:06:43.178][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:06:47.175][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim], files count:[96]
+[14:06:47.312][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim] finished, takes [0.138] sec.
+[14:07:37.198][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/lspsaga.lua
+[14:07:37.198][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:07:37.198][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:07:37.199][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:07:37.199][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:08:47.204][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 35.106 MB
+        # 00 : 32.667 MB
+        # 01 : 0.698 MB
+        # 02 : 0.499 MB
+        # 03 : 0.698 MB
+        # 04 : 0.543 MB
+    --------------- Coroutine ---------------
+        Total:     14
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      14
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:10:14.247][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/lspsaga.lua
+[14:10:14.247][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:14.247][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:14.247][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:14.247][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:47.255][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/init.lua
+[14:10:47.258][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:47.258][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:47.258][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:47.258][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:52.257][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/lspsaga.lua
+[14:10:52.257][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:52.258][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:52.258][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:10:52.258][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:18:47.389][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 36.118 MB
+        # 00 : 33.680 MB
+        # 01 : 0.698 MB
+        # 02 : 0.499 MB
+        # 03 : 0.698 MB
+        # 04 : 0.543 MB
+    --------------- Coroutine ---------------
+        Total:     53
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      53
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:19:31.412][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/init.lua
+[14:19:31.413][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:19:31.414][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:19:31.414][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:19:31.414][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:25:02.475][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim], files count:[96]
+[14:25:02.479][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim], files count:[96]
+[14:25:02.571][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim] finished, takes [0.093] sec.
+[14:28:48.533][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 42.047 MB
+        # 00 : 39.609 MB
+        # 01 : 0.698 MB
+        # 02 : 0.499 MB
+        # 03 : 0.698 MB
+        # 04 : 0.543 MB
+    --------------- Coroutine ---------------
+        Total:     104
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      104
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:35:07.657][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:35:07.658][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:35:07.658][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:35:07.658][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:35:07.658][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:37:27.691][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:37:27.692][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:37:27.692][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:37:27.692][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:37:27.692][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:38:49.697][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 42.984 MB
+        # 00 : 40.546 MB
+        # 01 : 0.698 MB
+        # 02 : 0.499 MB
+        # 03 : 0.698 MB
+        # 04 : 0.543 MB
+    --------------- Coroutine ---------------
+        Total:     130
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      130
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:41:50.760][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:41:50.761][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:41:50.761][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:41:50.761][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:41:50.761][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:43:16.780][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:43:16.781][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:43:16.781][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:43:16.782][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:43:16.782][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:48:50.872][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 43.920 MB
+        # 00 : 41.481 MB
+        # 01 : 0.698 MB
+        # 02 : 0.499 MB
+        # 03 : 0.698 MB
+        # 04 : 0.543 MB
+    --------------- Coroutine ---------------
+        Total:     156
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      156
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[14:49:32.882][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/configs.lua
+[14:49:32.883][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:49:32.883][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:49:32.883][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:49:32.883][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:52:38.935][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:52:38.936][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:52:38.936][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:52:38.936][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:52:38.936][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:03.963][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:54:03.964][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:03.965][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:03.965][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:03.965][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:50.973][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:54:50.974][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:50.974][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:50.974][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:50.974][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:54.970][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:54:54.970][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:54.971][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:54.971][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:54:54.971][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:18.986][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:56:18.986][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:18.986][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:18.986][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:18.986][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:32.989][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:56:32.989][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:32.989][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:32.989][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:32.989][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:36.991][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:56:36.992][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:36.992][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:36.992][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:36.992][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:42.992][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:56:42.993][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:42.993][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:42.993][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:56:42.993][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:57:58.998][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim], files count:[95]
+[14:57:59.101][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim] finished, takes [0.092] sec.
+[14:58:42.023][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/mappings/init.lua
+[14:58:42.024][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:58:42.024][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:58:42.024][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:58:42.024][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim
+[14:58:44.208][info] [#0:script/provider/provider.lua:168]: Server shutdown.
+[14:58:44.309][info] [#0:script/provider/provider.lua:161]: Server exited.

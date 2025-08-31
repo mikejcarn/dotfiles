@@ -1,0 +1,628 @@
+(I) 2022-08-16T07:01:33 - Successfully listening on IP: 192.168.2.73, port: TCP/55647
+(I) 2022-08-16T07:01:33 - Successfully listening on IP: 192.168.2.73, port: UTP/55647
+(I) 2022-08-16T07:03:14 - Successfully listening on IP: 192.168.2.74, port: TCP/55647
+(I) 2022-08-16T07:03:14 - Successfully listening on IP: 192.168.2.74, port: UTP/55647
+(C) 2022-08-16T07:05:50 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.74]: no router found
+(C) 2022-08-16T07:05:50 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.74]: no router found
+(I) 2022-08-16T07:20:35 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T07:20:35 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T07:20:36 - Successfully listening on IP: 192.168.2.74, port: TCP/55647
+(I) 2022-08-16T07:20:36 - Successfully listening on IP: 192.168.2.74, port: UTP/55647
+(I) 2022-08-16T07:22:42 - Successfully listening on IP: 192.168.2.75, port: TCP/55647
+(I) 2022-08-16T07:22:42 - Successfully listening on IP: 192.168.2.75, port: UTP/55647
+(C) 2022-08-16T07:25:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.75]: no router found
+(C) 2022-08-16T07:25:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.75]: no router found
+(I) 2022-08-16T07:25:27 - Successfully listening on IP: 192.168.2.76, port: TCP/55647
+(I) 2022-08-16T07:25:27 - Successfully listening on IP: 192.168.2.76, port: UTP/55647
+(C) 2022-08-16T07:28:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.76]: no router found
+(C) 2022-08-16T07:28:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.76]: no router found
+(I) 2022-08-16T07:43:42 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T07:43:42 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T07:43:44 - Successfully listening on IP: 192.168.2.76, port: TCP/55647
+(I) 2022-08-16T07:43:44 - Successfully listening on IP: 192.168.2.76, port: UTP/55647
+(C) 2022-08-16T07:46:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.76]: no router found
+(C) 2022-08-16T07:46:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.76]: no router found
+(I) 2022-08-16T07:48:45 - Successfully listening on IP: 192.168.2.77, port: TCP/55647
+(I) 2022-08-16T07:48:45 - Successfully listening on IP: 192.168.2.77, port: UTP/55647
+(C) 2022-08-16T07:51:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.77]: no router found
+(C) 2022-08-16T07:51:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.77]: no router found
+(I) 2022-08-16T08:04:45 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T08:04:45 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T08:04:46 - Successfully listening on IP: 192.168.2.77, port: TCP/55647
+(I) 2022-08-16T08:04:46 - Successfully listening on IP: 192.168.2.77, port: UTP/55647
+(C) 2022-08-16T08:07:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.77]: no router found
+(C) 2022-08-16T08:07:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.77]: no router found
+(I) 2022-08-16T08:10:27 - Successfully listening on IP: 192.168.2.78, port: TCP/55647
+(I) 2022-08-16T08:10:27 - Successfully listening on IP: 192.168.2.78, port: UTP/55647
+(C) 2022-08-16T08:13:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.78]: no router found
+(C) 2022-08-16T08:13:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.78]: no router found
+(I) 2022-08-16T08:20:44 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T08:20:44 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T08:20:45 - Successfully listening on IP: 192.168.2.78, port: TCP/55647
+(I) 2022-08-16T08:20:45 - Successfully listening on IP: 192.168.2.78, port: UTP/55647
+(I) 2022-08-16T08:22:13 - Successfully listening on IP: 192.168.2.79, port: TCP/55647
+(I) 2022-08-16T08:22:13 - Successfully listening on IP: 192.168.2.79, port: UTP/55647
+(C) 2022-08-16T08:24:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.79]: no router found
+(C) 2022-08-16T08:24:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.79]: no router found
+(I) 2022-08-16T08:24:56 - Successfully listening on IP: 192.168.2.80, port: TCP/55647
+(I) 2022-08-16T08:24:56 - Successfully listening on IP: 192.168.2.80, port: UTP/55647
+(C) 2022-08-16T08:27:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.80]: no router found
+(C) 2022-08-16T08:27:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.80]: no router found
+(I) 2022-08-16T08:50:48 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T08:50:48 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T08:50:49 - Successfully listening on IP: 192.168.2.80, port: TCP/55647
+(I) 2022-08-16T08:50:49 - Successfully listening on IP: 192.168.2.80, port: UTP/55647
+(C) 2022-08-16T08:53:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.80]: no router found
+(C) 2022-08-16T08:53:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.80]: no router found
+(I) 2022-08-16T08:53:42 - Successfully listening on IP: 192.168.2.81, port: TCP/55647
+(I) 2022-08-16T08:53:42 - Successfully listening on IP: 192.168.2.81, port: UTP/55647
+(C) 2022-08-16T08:56:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.81]: no router found
+(C) 2022-08-16T08:56:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.81]: no router found
+(I) 2022-08-16T09:05:51 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T09:05:51 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T09:05:53 - Successfully listening on IP: 192.168.2.81, port: TCP/55647
+(I) 2022-08-16T09:05:53 - Successfully listening on IP: 192.168.2.81, port: UTP/55647
+(C) 2022-08-16T09:08:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.81]: no router found
+(C) 2022-08-16T09:08:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.81]: no router found
+(I) 2022-08-16T09:09:13 - Successfully listening on IP: 192.168.2.82, port: TCP/55647
+(I) 2022-08-16T09:09:13 - Successfully listening on IP: 192.168.2.82, port: UTP/55647
+(C) 2022-08-16T09:11:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.82]: no router found
+(C) 2022-08-16T09:11:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.82]: no router found
+(I) 2022-08-16T09:37:32 - Successfully listening on IP: 192.168.2.83, port: TCP/55647
+(I) 2022-08-16T09:37:32 - Successfully listening on IP: 192.168.2.83, port: UTP/55647
+(C) 2022-08-16T09:40:08 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.83]: no router found
+(C) 2022-08-16T09:40:08 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.83]: no router found
+(I) 2022-08-16T09:41:26 - Successfully listening on IP: 192.168.2.84, port: TCP/55647
+(I) 2022-08-16T09:41:26 - Successfully listening on IP: 192.168.2.84, port: UTP/55647
+(C) 2022-08-16T09:44:02 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.84]: no router found
+(C) 2022-08-16T09:44:02 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.84]: no router found
+(I) 2022-08-16T10:27:24 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T10:27:24 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T10:27:25 - Successfully listening on IP: 192.168.2.84, port: TCP/55647
+(I) 2022-08-16T10:27:25 - Successfully listening on IP: 192.168.2.84, port: UTP/55647
+(C) 2022-08-16T10:30:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.84]: no router found
+(C) 2022-08-16T10:30:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.84]: no router found
+(I) 2022-08-16T10:35:43 - Successfully listening on IP: 192.168.2.56, port: TCP/55647
+(I) 2022-08-16T10:35:43 - Successfully listening on IP: 192.168.2.56, port: UTP/55647
+(C) 2022-08-16T10:38:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.56]: no router found
+(C) 2022-08-16T10:38:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.56]: no router found
+(I) 2022-08-16T10:45:37 - Successfully listening on IP: 192.168.2.57, port: TCP/55647
+(I) 2022-08-16T10:45:37 - Successfully listening on IP: 192.168.2.57, port: UTP/55647
+(C) 2022-08-16T10:48:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.57]: no router found
+(C) 2022-08-16T10:48:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.57]: no router found
+(I) 2022-08-16T10:50:08 - Successfully listening on IP: 192.168.2.58, port: TCP/55647
+(I) 2022-08-16T10:50:08 - Successfully listening on IP: 192.168.2.58, port: UTP/55647
+(C) 2022-08-16T10:52:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.58]: no router found
+(C) 2022-08-16T10:52:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.58]: no router found
+(I) 2022-08-16T11:04:07 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T11:04:07 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T11:04:08 - Successfully listening on IP: 192.168.2.58, port: TCP/55647
+(I) 2022-08-16T11:04:08 - Successfully listening on IP: 192.168.2.58, port: UTP/55647
+(C) 2022-08-16T11:06:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.58]: no router found
+(C) 2022-08-16T11:06:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.58]: no router found
+(I) 2022-08-16T11:26:41 - Successfully listening on IP: 192.168.2.59, port: TCP/55647
+(I) 2022-08-16T11:26:41 - Successfully listening on IP: 192.168.2.59, port: UTP/55647
+(I) 2022-08-16T11:28:53 - Successfully listening on IP: 192.168.2.60, port: TCP/55647
+(I) 2022-08-16T11:28:53 - Successfully listening on IP: 192.168.2.60, port: UTP/55647
+(C) 2022-08-16T11:31:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.60]: no router found
+(C) 2022-08-16T11:31:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.60]: no router found
+(I) 2022-08-16T11:34:11 - Successfully listening on IP: 192.168.2.43, port: TCP/55647
+(I) 2022-08-16T11:34:11 - Successfully listening on IP: 192.168.2.43, port: UTP/55647
+(C) 2022-08-16T11:36:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.43]: no router found
+(C) 2022-08-16T11:36:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.43]: no router found
+(I) 2022-08-16T11:37:08 - Successfully listening on IP: 192.168.2.44, port: TCP/55647
+(I) 2022-08-16T11:37:08 - Successfully listening on IP: 192.168.2.44, port: UTP/55647
+(I) 2022-08-16T11:38:48 - Successfully listening on IP: 192.168.2.45, port: TCP/55647
+(I) 2022-08-16T11:38:48 - Successfully listening on IP: 192.168.2.45, port: UTP/55647
+(C) 2022-08-16T11:41:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.45]: no router found
+(C) 2022-08-16T11:41:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.45]: no router found
+(I) 2022-08-16T11:46:52 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T11:46:52 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T11:46:52 - Successfully listening on IP: 192.168.2.45, port: TCP/55647
+(I) 2022-08-16T11:46:52 - Successfully listening on IP: 192.168.2.45, port: UTP/55647
+(I) 2022-08-16T11:48:10 - Successfully listening on IP: 192.168.2.47, port: TCP/55647
+(I) 2022-08-16T11:48:10 - Successfully listening on IP: 192.168.2.47, port: UTP/55647
+(C) 2022-08-16T11:50:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.47]: no router found
+(C) 2022-08-16T11:50:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.47]: no router found
+(I) 2022-08-16T12:18:32 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T12:18:32 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T12:18:33 - Successfully listening on IP: 192.168.2.47, port: TCP/55647
+(I) 2022-08-16T12:18:33 - Successfully listening on IP: 192.168.2.47, port: UTP/55647
+(C) 2022-08-16T12:21:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.47]: no router found
+(C) 2022-08-16T12:21:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.47]: no router found
+(I) 2022-08-16T12:22:11 - Successfully listening on IP: 192.168.2.48, port: TCP/55647
+(I) 2022-08-16T12:22:11 - Successfully listening on IP: 192.168.2.48, port: UTP/55647
+(C) 2022-08-16T12:24:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.48]: no router found
+(C) 2022-08-16T12:24:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.48]: no router found
+(I) 2022-08-16T12:42:27 - Successfully listening on IP: 192.168.2.50, port: TCP/55647
+(I) 2022-08-16T12:42:27 - Successfully listening on IP: 192.168.2.50, port: UTP/55647
+(I) 2022-08-16T12:44:39 - Successfully listening on IP: 192.168.2.51, port: TCP/55647
+(I) 2022-08-16T12:44:39 - Successfully listening on IP: 192.168.2.51, port: UTP/55647
+(C) 2022-08-16T12:47:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.51]: no router found
+(C) 2022-08-16T12:47:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.51]: no router found
+(I) 2022-08-16T12:49:58 - Successfully listening on IP: 192.168.2.52, port: TCP/55647
+(I) 2022-08-16T12:49:58 - Successfully listening on IP: 192.168.2.52, port: UTP/55647
+(I) 2022-08-16T12:52:12 - Successfully listening on IP: 192.168.2.53, port: TCP/55647
+(I) 2022-08-16T12:52:12 - Successfully listening on IP: 192.168.2.53, port: UTP/55647
+(I) 2022-08-16T12:54:46 - Successfully listening on IP: 192.168.2.54, port: TCP/55647
+(I) 2022-08-16T12:54:46 - Successfully listening on IP: 192.168.2.54, port: UTP/55647
+(I) 2022-08-16T14:09:52 - Successfully listening on IP: 10.0.0.21, port: TCP/55647
+(I) 2022-08-16T14:09:52 - Successfully listening on IP: 10.0.0.21, port: UTP/55647
+(I) 2022-08-16T14:09:54 - Successfully listening on IP: fe80::dc30:7f58:d719:efc4%wlan0, port: TCP/55647
+(I) 2022-08-16T14:09:54 - Successfully listening on IP: fe80::dc30:7f58:d719:efc4%wlan0, port: UTP/55647
+(I) 2022-08-16T14:09:55 - Successfully listening on IP: 2607:fea8:2061:300:1d6:8c7:6e31:f8, port: TCP/55647
+(I) 2022-08-16T14:09:55 - Successfully listening on IP: 2607:fea8:2061:300:1d6:8c7:6e31:f8, port: UTP/55647
+(I) 2022-08-16T14:09:56 - Successfully listening on IP: 2607:fea8:2061:300::c8b3, port: TCP/55647
+(I) 2022-08-16T14:09:56 - Successfully listening on IP: 2607:fea8:2061:300::c8b3, port: UTP/55647
+(C) 2022-08-16T14:12:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.0.0.21]: no router found
+(C) 2022-08-16T14:12:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.0.0.21]: no router found
+(I) 2022-08-16T14:36:43 - Successfully listening on IP: 10.0.0.21, port: TCP/55647
+(I) 2022-08-16T14:36:43 - Successfully listening on IP: 10.0.0.21, port: UTP/55647
+(I) 2022-08-16T14:36:45 - Successfully listening on IP: fe80::dc30:7f58:d719:efc4%wlan0, port: TCP/55647
+(I) 2022-08-16T14:36:45 - Successfully listening on IP: fe80::dc30:7f58:d719:efc4%wlan0, port: UTP/55647
+(I) 2022-08-16T14:36:47 - Successfully listening on IP: 2607:fea8:2061:300::c8b3, port: TCP/55647
+(I) 2022-08-16T14:36:47 - Successfully listening on IP: 2607:fea8:2061:300::c8b3, port: UTP/55647
+(I) 2022-08-16T14:36:47 - Successfully listening on IP: 2607:fea8:2061:300:1d6:8c7:6e31:f8, port: TCP/55647
+(I) 2022-08-16T14:36:47 - Successfully listening on IP: 2607:fea8:2061:300:1d6:8c7:6e31:f8, port: UTP/55647
+(C) 2022-08-16T14:39:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.0.0.21]: no router found
+(C) 2022-08-16T14:39:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.0.0.21]: no router found
+(I) 2022-08-16T17:33:07 - Successfully listening on IP: 10.0.0.21, port: TCP/55647
+(I) 2022-08-16T17:33:07 - Successfully listening on IP: 10.0.0.21, port: UTP/55647
+(I) 2022-08-16T17:33:08 - Successfully listening on IP: fe80::dc30:7f58:d719:efc4%wlan0, port: TCP/55647
+(I) 2022-08-16T17:33:08 - Successfully listening on IP: fe80::dc30:7f58:d719:efc4%wlan0, port: UTP/55647
+(I) 2022-08-16T17:33:12 - Successfully listening on IP: 2607:fea8:2061:300::c8b3, port: TCP/55647
+(I) 2022-08-16T17:33:12 - Successfully listening on IP: 2607:fea8:2061:300::c8b3, port: UTP/55647
+(I) 2022-08-16T17:33:13 - Successfully listening on IP: 2607:fea8:2061:300:1d6:8c7:6e31:f8, port: TCP/55647
+(I) 2022-08-16T17:33:13 - Successfully listening on IP: 2607:fea8:2061:300:1d6:8c7:6e31:f8, port: UTP/55647
+(C) 2022-08-16T17:35:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.0.0.21]: no router found
+(C) 2022-08-16T17:35:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[10.0.0.21]: no router found
+(I) 2022-08-16T20:19:42 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-16T20:19:42 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-16T20:19:43 - Successfully listening on IP: 192.168.2.54, port: TCP/55647
+(I) 2022-08-16T20:19:43 - Successfully listening on IP: 192.168.2.54, port: UTP/55647
+(C) 2022-08-16T20:22:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.54]: no router found
+(C) 2022-08-16T20:22:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.54]: no router found
+(I) 2022-08-16T20:41:18 - Successfully listening on IP: 192.168.2.36, port: TCP/55647
+(I) 2022-08-16T20:41:18 - Successfully listening on IP: 192.168.2.36, port: UTP/55647
+(C) 2022-08-16T20:43:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.36]: no router found
+(C) 2022-08-16T20:43:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.36]: no router found
+(I) 2022-08-16T20:54:19 - Successfully listening on IP: 192.168.2.37, port: TCP/55647
+(I) 2022-08-16T20:54:19 - Successfully listening on IP: 192.168.2.37, port: UTP/55647
+(C) 2022-08-16T20:56:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.37]: no router found
+(C) 2022-08-16T20:56:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.37]: no router found
+(I) 2022-08-16T21:09:44 - Successfully listening on IP: 192.168.2.27, port: TCP/55647
+(I) 2022-08-16T21:09:44 - Successfully listening on IP: 192.168.2.27, port: UTP/55647
+(I) 2022-08-16T21:11:39 - Successfully listening on IP: 192.168.2.28, port: TCP/55647
+(I) 2022-08-16T21:11:39 - Successfully listening on IP: 192.168.2.28, port: UTP/55647
+(I) 2022-08-16T21:12:45 - Successfully listening on IP: 192.168.2.29, port: TCP/55647
+(I) 2022-08-16T21:12:45 - Successfully listening on IP: 192.168.2.29, port: UTP/55647
+(C) 2022-08-16T21:15:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.29]: no router found
+(C) 2022-08-16T21:15:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.29]: no router found
+(I) 2022-08-17T06:49:38 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-17T06:49:38 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-17T06:49:40 - Successfully listening on IP: 192.168.2.29, port: TCP/55647
+(I) 2022-08-17T06:49:40 - Successfully listening on IP: 192.168.2.29, port: UTP/55647
+(C) 2022-08-17T06:52:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.29]: no router found
+(C) 2022-08-17T06:52:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.29]: no router found
+(I) 2022-08-17T07:41:00 - Successfully listening on IP: 192.168.2.25, port: TCP/55647
+(I) 2022-08-17T07:41:00 - Successfully listening on IP: 192.168.2.25, port: UTP/55647
+(C) 2022-08-17T07:43:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.25]: no router found
+(C) 2022-08-17T07:43:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.25]: no router found
+(I) 2022-08-17T08:10:16 - Successfully listening on IP: 192.168.2.19, port: TCP/55647
+(I) 2022-08-17T08:10:16 - Successfully listening on IP: 192.168.2.19, port: UTP/55647
+(C) 2022-08-17T08:12:52 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.19]: no router found
+(C) 2022-08-17T08:12:52 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.19]: no router found
+(I) 2022-08-17T08:25:49 - Successfully listening on IP: 192.168.2.12, port: TCP/55647
+(I) 2022-08-17T08:25:49 - Successfully listening on IP: 192.168.2.12, port: UTP/55647
+(C) 2022-08-17T08:28:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.12]: no router found
+(C) 2022-08-17T08:28:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.12]: no router found
+(I) 2022-08-17T08:29:40 - Successfully listening on IP: 192.168.2.10, port: TCP/55647
+(I) 2022-08-17T08:29:40 - Successfully listening on IP: 192.168.2.10, port: UTP/55647
+(C) 2022-08-17T08:32:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.10]: no router found
+(C) 2022-08-17T08:32:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.10]: no router found
+(I) 2022-08-17T08:35:18 - Successfully listening on IP: 192.168.2.61, port: TCP/55647
+(I) 2022-08-17T08:35:18 - Successfully listening on IP: 192.168.2.61, port: UTP/55647
+(C) 2022-08-17T08:37:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.61]: no router found
+(C) 2022-08-17T08:37:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.61]: no router found
+(I) 2022-08-17T08:41:21 - Successfully listening on IP: 192.168.2.89, port: TCP/55647
+(I) 2022-08-17T08:41:21 - Successfully listening on IP: 192.168.2.89, port: UTP/55647
+(C) 2022-08-17T08:43:57 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.89]: no router found
+(C) 2022-08-17T08:43:57 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.89]: no router found
+(I) 2022-08-17T08:53:05 - Successfully listening on IP: 192.168.2.87, port: TCP/55647
+(I) 2022-08-17T08:53:05 - Successfully listening on IP: 192.168.2.87, port: UTP/55647
+(C) 2022-08-17T08:55:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.87]: no router found
+(C) 2022-08-17T08:55:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.87]: no router found
+(I) 2022-08-17T10:51:43 - Successfully listening on IP: 192.168.2.90, port: TCP/55647
+(I) 2022-08-17T10:51:43 - Successfully listening on IP: 192.168.2.90, port: UTP/55647
+(C) 2022-08-17T10:54:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.90]: no router found
+(C) 2022-08-17T10:54:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.90]: no router found
+(I) 2022-08-17T11:02:48 - Successfully listening on IP: 192.168.2.92, port: TCP/55647
+(I) 2022-08-17T11:02:48 - Successfully listening on IP: 192.168.2.92, port: UTP/55647
+(C) 2022-08-17T11:05:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.92]: no router found
+(C) 2022-08-17T11:05:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.92]: no router found
+(I) 2022-08-17T11:06:04 - Successfully listening on IP: 192.168.2.93, port: TCP/55647
+(I) 2022-08-17T11:06:04 - Successfully listening on IP: 192.168.2.93, port: UTP/55647
+(C) 2022-08-17T11:08:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.93]: no router found
+(C) 2022-08-17T11:08:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.93]: no router found
+(I) 2022-08-17T11:39:08 - Successfully listening on IP: 192.168.2.94, port: TCP/55647
+(I) 2022-08-17T11:39:08 - Successfully listening on IP: 192.168.2.94, port: UTP/55647
+(C) 2022-08-17T11:41:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.94]: no router found
+(C) 2022-08-17T11:41:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.94]: no router found
+(I) 2022-08-17T11:48:56 - Successfully listening on IP: 192.168.2.95, port: TCP/55647
+(I) 2022-08-17T11:48:56 - Successfully listening on IP: 192.168.2.95, port: UTP/55647
+(C) 2022-08-17T11:51:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.95]: no router found
+(C) 2022-08-17T11:51:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.95]: no router found
+(I) 2022-08-17T11:53:24 - Successfully listening on IP: 192.168.2.96, port: TCP/55647
+(I) 2022-08-17T11:53:24 - Successfully listening on IP: 192.168.2.96, port: UTP/55647
+(C) 2022-08-17T11:56:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.96]: no router found
+(C) 2022-08-17T11:56:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.96]: no router found
+(I) 2022-08-17T11:58:52 - Successfully listening on IP: 192.168.2.97, port: TCP/55647
+(I) 2022-08-17T11:58:52 - Successfully listening on IP: 192.168.2.97, port: UTP/55647
+(C) 2022-08-17T12:01:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.97]: no router found
+(C) 2022-08-17T12:01:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.97]: no router found
+(I) 2022-08-17T12:40:53 - Successfully listening on IP: 192.168.2.88, port: TCP/55647
+(I) 2022-08-17T12:40:53 - Successfully listening on IP: 192.168.2.88, port: UTP/55647
+(C) 2022-08-17T12:43:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.88]: no router found
+(C) 2022-08-17T12:43:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.88]: no router found
+(I) 2022-08-17T13:14:20 - Successfully listening on IP: 192.168.2.99, port: TCP/55647
+(I) 2022-08-17T13:14:20 - Successfully listening on IP: 192.168.2.99, port: UTP/55647
+(C) 2022-08-17T13:16:56 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.99]: no router found
+(C) 2022-08-17T13:16:56 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.99]: no router found
+(I) 2022-08-17T13:17:50 - Successfully listening on IP: 192.168.2.100, port: TCP/55647
+(I) 2022-08-17T13:17:50 - Successfully listening on IP: 192.168.2.100, port: UTP/55647
+(C) 2022-08-17T13:20:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.100]: no router found
+(C) 2022-08-17T13:20:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.100]: no router found
+(I) 2022-08-17T13:22:16 - Successfully listening on IP: 192.168.2.101, port: TCP/55647
+(I) 2022-08-17T13:22:16 - Successfully listening on IP: 192.168.2.101, port: UTP/55647
+(C) 2022-08-17T13:24:52 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.101]: no router found
+(C) 2022-08-17T13:24:52 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.101]: no router found
+(I) 2022-08-17T13:34:19 - Successfully listening on IP: 192.168.2.102, port: TCP/55647
+(I) 2022-08-17T13:34:19 - Successfully listening on IP: 192.168.2.102, port: UTP/55647
+(C) 2022-08-17T13:36:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.102]: no router found
+(C) 2022-08-17T13:36:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.102]: no router found
+(I) 2022-08-17T13:38:07 - Successfully listening on IP: 192.168.2.103, port: TCP/55647
+(I) 2022-08-17T13:38:07 - Successfully listening on IP: 192.168.2.103, port: UTP/55647
+(C) 2022-08-17T13:40:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.103]: no router found
+(C) 2022-08-17T13:40:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.103]: no router found
+(I) 2022-08-17T13:53:54 - Successfully listening on IP: 192.168.2.104, port: TCP/55647
+(I) 2022-08-17T13:53:54 - Successfully listening on IP: 192.168.2.104, port: UTP/55647
+(C) 2022-08-17T13:56:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.104]: no router found
+(C) 2022-08-17T13:56:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.104]: no router found
+(I) 2022-08-17T13:59:58 - Successfully listening on IP: 192.168.2.105, port: TCP/55647
+(I) 2022-08-17T13:59:58 - Successfully listening on IP: 192.168.2.105, port: UTP/55647
+(C) 2022-08-17T14:02:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.105]: no router found
+(C) 2022-08-17T14:02:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.105]: no router found
+(I) 2022-08-17T14:04:06 - Successfully listening on IP: 192.168.2.106, port: TCP/55647
+(I) 2022-08-17T14:04:06 - Successfully listening on IP: 192.168.2.106, port: UTP/55647
+(I) 2022-08-17T14:05:53 - Successfully listening on IP: 192.168.2.107, port: TCP/55647
+(I) 2022-08-17T14:05:53 - Successfully listening on IP: 192.168.2.107, port: UTP/55647
+(I) 2022-08-17T14:07:16 - Successfully listening on IP: 192.168.2.108, port: TCP/55647
+(I) 2022-08-17T14:07:16 - Successfully listening on IP: 192.168.2.108, port: UTP/55647
+(I) 2022-08-17T14:08:55 - Successfully listening on IP: 192.168.2.109, port: TCP/55647
+(I) 2022-08-17T14:08:55 - Successfully listening on IP: 192.168.2.109, port: UTP/55647
+(C) 2022-08-17T14:11:31 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.109]: no router found
+(C) 2022-08-17T14:11:31 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.109]: no router found
+(I) 2022-08-17T14:42:36 - Successfully listening on IP: 192.168.2.110, port: TCP/55647
+(I) 2022-08-17T14:42:36 - Successfully listening on IP: 192.168.2.110, port: UTP/55647
+(C) 2022-08-17T14:45:12 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.110]: no router found
+(C) 2022-08-17T14:45:12 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.110]: no router found
+(I) 2022-08-17T19:40:58 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-17T19:40:58 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-17T19:41:00 - Successfully listening on IP: 192.168.2.110, port: TCP/55647
+(I) 2022-08-17T19:41:00 - Successfully listening on IP: 192.168.2.110, port: UTP/55647
+(C) 2022-08-17T19:43:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.110]: no router found
+(C) 2022-08-17T19:43:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.110]: no router found
+(I) 2022-08-17T19:47:24 - Successfully listening on IP: 192.168.2.119, port: TCP/55647
+(I) 2022-08-17T19:47:24 - Successfully listening on IP: 192.168.2.119, port: UTP/55647
+(C) 2022-08-17T19:50:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.119]: no router found
+(C) 2022-08-17T19:50:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.119]: no router found
+(I) 2022-08-17T19:56:55 - Successfully listening on IP: 192.168.2.120, port: TCP/55647
+(I) 2022-08-17T19:56:55 - Successfully listening on IP: 192.168.2.120, port: UTP/55647
+(I) 2022-08-17T19:58:15 - Successfully listening on IP: 192.168.2.121, port: TCP/55647
+(I) 2022-08-17T19:58:15 - Successfully listening on IP: 192.168.2.121, port: UTP/55647
+(C) 2022-08-17T20:00:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.121]: no router found
+(C) 2022-08-17T20:00:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.121]: no router found
+(I) 2022-08-17T20:05:32 - Successfully listening on IP: 192.168.2.122, port: TCP/55647
+(I) 2022-08-17T20:05:32 - Successfully listening on IP: 192.168.2.122, port: UTP/55647
+(C) 2022-08-17T20:08:08 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.122]: no router found
+(C) 2022-08-17T20:08:08 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.122]: no router found
+(I) 2022-08-17T23:28:33 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-17T23:28:33 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-17T23:28:34 - Successfully listening on IP: 192.168.2.122, port: TCP/55647
+(I) 2022-08-17T23:28:34 - Successfully listening on IP: 192.168.2.122, port: UTP/55647
+(C) 2022-08-17T23:31:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.122]: no router found
+(C) 2022-08-17T23:31:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.122]: no router found
+(I) 2022-08-18T04:15:48 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T04:15:48 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T04:15:49 - Successfully listening on IP: 192.168.2.122, port: TCP/55647
+(I) 2022-08-18T04:15:49 - Successfully listening on IP: 192.168.2.122, port: UTP/55647
+(C) 2022-08-18T04:18:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.122]: no router found
+(C) 2022-08-18T04:18:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.122]: no router found
+(I) 2022-08-18T04:58:05 - Successfully listening on IP: 192.168.2.127, port: TCP/55647
+(I) 2022-08-18T04:58:05 - Successfully listening on IP: 192.168.2.127, port: UTP/55647
+(C) 2022-08-18T05:00:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.127]: no router found
+(C) 2022-08-18T05:00:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.127]: no router found
+(I) 2022-08-18T05:34:18 - Successfully listening on IP: 192.168.2.128, port: TCP/55647
+(I) 2022-08-18T05:34:18 - Successfully listening on IP: 192.168.2.128, port: UTP/55647
+(C) 2022-08-18T05:36:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.128]: no router found
+(C) 2022-08-18T05:36:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.128]: no router found
+(I) 2022-08-18T05:50:23 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T05:50:23 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T05:50:23 - Successfully listening on IP: 192.168.2.128, port: TCP/55647
+(I) 2022-08-18T05:50:23 - Successfully listening on IP: 192.168.2.128, port: UTP/55647
+(I) 2022-08-18T05:51:30 - Successfully listening on IP: 192.168.2.130, port: TCP/55647
+(I) 2022-08-18T05:51:30 - Successfully listening on IP: 192.168.2.130, port: UTP/55647
+(C) 2022-08-18T05:54:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.130]: no router found
+(C) 2022-08-18T05:54:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.130]: no router found
+(I) 2022-08-18T05:59:13 - Successfully listening on IP: 192.168.2.131, port: TCP/55647
+(I) 2022-08-18T05:59:13 - Successfully listening on IP: 192.168.2.131, port: UTP/55647
+(C) 2022-08-18T06:01:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.131]: no router found
+(C) 2022-08-18T06:01:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.131]: no router found
+(I) 2022-08-18T06:04:26 - Successfully listening on IP: 192.168.2.129, port: TCP/55647
+(I) 2022-08-18T06:04:26 - Successfully listening on IP: 192.168.2.129, port: UTP/55647
+(C) 2022-08-18T06:07:02 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.129]: no router found
+(C) 2022-08-18T06:07:02 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.129]: no router found
+(I) 2022-08-18T06:11:36 - Successfully listening on IP: 192.168.2.133, port: TCP/55647
+(I) 2022-08-18T06:11:36 - Successfully listening on IP: 192.168.2.133, port: UTP/55647
+(I) 2022-08-18T06:12:43 - Successfully listening on IP: 192.168.2.132, port: TCP/55647
+(I) 2022-08-18T06:12:43 - Successfully listening on IP: 192.168.2.132, port: UTP/55647
+(C) 2022-08-18T06:15:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.132]: no router found
+(C) 2022-08-18T06:15:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.132]: no router found
+(I) 2022-08-18T06:26:05 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T06:26:05 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T06:26:06 - Successfully listening on IP: 192.168.2.132, port: TCP/55647
+(I) 2022-08-18T06:26:06 - Successfully listening on IP: 192.168.2.132, port: UTP/55647
+(C) 2022-08-18T06:28:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.132]: no router found
+(C) 2022-08-18T06:28:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.132]: no router found
+(I) 2022-08-18T06:28:52 - Successfully listening on IP: 192.168.2.134, port: TCP/55647
+(I) 2022-08-18T06:28:52 - Successfully listening on IP: 192.168.2.134, port: UTP/55647
+(C) 2022-08-18T06:31:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.134]: no router found
+(C) 2022-08-18T06:31:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.134]: no router found
+(I) 2022-08-18T06:32:42 - Successfully listening on IP: 192.168.2.136, port: TCP/55647
+(I) 2022-08-18T06:32:42 - Successfully listening on IP: 192.168.2.136, port: UTP/55647
+(I) 2022-08-18T06:34:07 - Successfully listening on IP: 192.168.2.137, port: TCP/55647
+(I) 2022-08-18T06:34:07 - Successfully listening on IP: 192.168.2.137, port: UTP/55647
+(C) 2022-08-18T06:36:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.137]: no router found
+(C) 2022-08-18T06:36:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.137]: no router found
+(I) 2022-08-18T06:37:49 - Successfully listening on IP: 192.168.2.138, port: TCP/55647
+(I) 2022-08-18T06:37:49 - Successfully listening on IP: 192.168.2.138, port: UTP/55647
+(I) 2022-08-18T06:40:11 - Successfully listening on IP: 192.168.2.139, port: TCP/55647
+(I) 2022-08-18T06:40:11 - Successfully listening on IP: 192.168.2.139, port: UTP/55647
+(C) 2022-08-18T06:42:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.139]: no router found
+(C) 2022-08-18T06:42:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.139]: no router found
+(I) 2022-08-18T09:19:18 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T09:19:18 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T09:19:20 - Successfully listening on IP: 192.168.2.139, port: TCP/55647
+(I) 2022-08-18T09:19:20 - Successfully listening on IP: 192.168.2.139, port: UTP/55647
+(I) 2022-08-18T09:23:05 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T09:23:05 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T09:23:06 - Successfully listening on IP: 192.168.2.139, port: TCP/55647
+(I) 2022-08-18T09:23:06 - Successfully listening on IP: 192.168.2.139, port: UTP/55647
+(C) 2022-08-18T09:25:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.139]: no router found
+(C) 2022-08-18T09:25:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.139]: no router found
+(I) 2022-08-18T09:33:04 - Successfully listening on IP: 192.168.2.140, port: TCP/55647
+(I) 2022-08-18T09:33:04 - Successfully listening on IP: 192.168.2.140, port: UTP/55647
+(C) 2022-08-18T09:35:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.140]: no router found
+(C) 2022-08-18T09:35:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.140]: no router found
+(I) 2022-08-18T10:06:10 - Successfully listening on IP: 192.168.2.141, port: TCP/55647
+(I) 2022-08-18T10:06:10 - Successfully listening on IP: 192.168.2.141, port: UTP/55647
+(C) 2022-08-18T10:08:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.141]: no router found
+(C) 2022-08-18T10:08:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.141]: no router found
+(I) 2022-08-18T10:20:13 - Successfully listening on IP: 192.168.2.142, port: TCP/55647
+(I) 2022-08-18T10:20:13 - Successfully listening on IP: 192.168.2.142, port: UTP/55647
+(I) 2022-08-18T10:21:19 - Successfully listening on IP: 192.168.2.143, port: TCP/55647
+(I) 2022-08-18T10:21:19 - Successfully listening on IP: 192.168.2.143, port: UTP/55647
+(C) 2022-08-18T10:23:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.143]: no router found
+(C) 2022-08-18T10:23:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.143]: no router found
+(I) 2022-08-18T10:30:50 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T10:30:50 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T10:30:52 - Successfully listening on IP: 192.168.2.143, port: TCP/55647
+(I) 2022-08-18T10:30:52 - Successfully listening on IP: 192.168.2.143, port: UTP/55647
+(C) 2022-08-18T10:33:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.143]: no router found
+(C) 2022-08-18T10:33:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.143]: no router found
+(I) 2022-08-18T11:41:11 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T11:41:11 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T11:41:12 - Successfully listening on IP: 192.168.2.143, port: TCP/55647
+(I) 2022-08-18T11:41:12 - Successfully listening on IP: 192.168.2.143, port: UTP/55647
+(C) 2022-08-18T11:43:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.143]: no router found
+(C) 2022-08-18T11:43:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.143]: no router found
+(I) 2022-08-18T14:16:10 - Successfully listening on IP: 172.16.224.2, port: TCP/55647
+(I) 2022-08-18T14:16:10 - Successfully listening on IP: 172.16.224.2, port: UTP/55647
+(I) 2022-08-18T14:16:11 - Successfully listening on IP: fe80::9bb4:d8f4:2adf:7828%wlan0, port: TCP/55647
+(I) 2022-08-18T14:16:11 - Successfully listening on IP: fe80::9bb4:d8f4:2adf:7828%wlan0, port: UTP/55647
+(C) 2022-08-18T14:18:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[172.16.224.2]: no router found
+(C) 2022-08-18T14:18:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[172.16.224.2]: no router found
+(I) 2022-08-18T14:28:42 - Successfully listening on IP: 172.16.224.2, port: TCP/55647
+(I) 2022-08-18T14:28:42 - Successfully listening on IP: 172.16.224.2, port: UTP/55647
+(I) 2022-08-18T14:28:43 - Successfully listening on IP: fe80::9bb4:d8f4:2adf:7828%wlan0, port: TCP/55647
+(I) 2022-08-18T14:28:43 - Successfully listening on IP: fe80::9bb4:d8f4:2adf:7828%wlan0, port: UTP/55647
+(C) 2022-08-18T14:31:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[172.16.224.2]: no router found
+(C) 2022-08-18T14:31:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[172.16.224.2]: no router found
+(I) 2022-08-18T15:32:03 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T15:32:03 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T15:32:03 - Successfully listening on IP: 192.168.2.143, port: TCP/55647
+(I) 2022-08-18T15:32:03 - Successfully listening on IP: 192.168.2.143, port: UTP/55647
+(I) 2022-08-18T15:34:23 - Successfully listening on IP: 192.168.2.149, port: TCP/55647
+(I) 2022-08-18T15:34:23 - Successfully listening on IP: 192.168.2.149, port: UTP/55647
+(C) 2022-08-18T15:36:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.149]: no router found
+(C) 2022-08-18T15:36:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.149]: no router found
+(I) 2022-08-18T15:38:06 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T15:38:06 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T15:38:08 - Successfully listening on IP: 192.168.2.149, port: TCP/55647
+(I) 2022-08-18T15:38:08 - Successfully listening on IP: 192.168.2.149, port: UTP/55647
+(C) 2022-08-18T15:40:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.149]: no router found
+(C) 2022-08-18T15:40:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.149]: no router found
+(I) 2022-08-18T15:50:57 - Successfully listening on IP: 192.168.2.150, port: TCP/55647
+(I) 2022-08-18T15:50:57 - Successfully listening on IP: 192.168.2.150, port: UTP/55647
+(C) 2022-08-18T15:53:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.150]: no router found
+(C) 2022-08-18T15:53:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.150]: no router found
+(I) 2022-08-18T16:24:05 - Successfully listening on IP: 192.168.2.151, port: TCP/55647
+(I) 2022-08-18T16:24:05 - Successfully listening on IP: 192.168.2.151, port: UTP/55647
+(C) 2022-08-18T16:26:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(C) 2022-08-18T16:26:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(I) 2022-08-18T17:03:13 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T17:03:13 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T17:03:15 - Successfully listening on IP: 192.168.2.151, port: TCP/55647
+(I) 2022-08-18T17:03:15 - Successfully listening on IP: 192.168.2.151, port: UTP/55647
+(C) 2022-08-18T17:05:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(C) 2022-08-18T17:05:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(I) 2022-08-18T19:36:30 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T19:36:30 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T19:36:32 - Successfully listening on IP: 192.168.2.151, port: TCP/55647
+(I) 2022-08-18T19:36:32 - Successfully listening on IP: 192.168.2.151, port: UTP/55647
+(C) 2022-08-18T19:39:08 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(C) 2022-08-18T19:39:08 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(I) 2022-08-18T20:05:18 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T20:05:18 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T20:05:19 - Successfully listening on IP: 192.168.2.151, port: TCP/55647
+(I) 2022-08-18T20:05:19 - Successfully listening on IP: 192.168.2.151, port: UTP/55647
+(C) 2022-08-18T20:07:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(C) 2022-08-18T20:07:55 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.151]: no router found
+(I) 2022-08-18T20:19:05 - Successfully listening on IP: 192.168.2.153, port: TCP/55647
+(I) 2022-08-18T20:19:05 - Successfully listening on IP: 192.168.2.153, port: UTP/55647
+(C) 2022-08-18T20:21:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.153]: no router found
+(C) 2022-08-18T20:21:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.153]: no router found
+(I) 2022-08-18T20:23:25 - Successfully listening on IP: 192.168.2.153, port: TCP/55647
+(I) 2022-08-18T20:23:25 - Successfully listening on IP: 192.168.2.153, port: UTP/55647
+(I) 2022-08-18T20:23:26 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T20:23:26 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(C) 2022-08-18T20:26:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.153]: no router found
+(C) 2022-08-18T20:26:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.153]: no router found
+(I) 2022-08-18T20:26:49 - Successfully listening on IP: 192.168.2.154, port: TCP/55647
+(I) 2022-08-18T20:26:49 - Successfully listening on IP: 192.168.2.154, port: UTP/55647
+(C) 2022-08-18T20:29:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.154]: no router found
+(C) 2022-08-18T20:29:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.154]: no router found
+(I) 2022-08-18T20:48:23 - Successfully listening on IP: 192.168.2.155, port: TCP/55647
+(I) 2022-08-18T20:48:23 - Successfully listening on IP: 192.168.2.155, port: UTP/55647
+(I) 2022-08-18T20:49:36 - Successfully listening on IP: 192.168.2.156, port: TCP/55647
+(I) 2022-08-18T20:49:36 - Successfully listening on IP: 192.168.2.156, port: UTP/55647
+(I) 2022-08-18T20:51:46 - Successfully listening on IP: 192.168.2.157, port: TCP/55647
+(I) 2022-08-18T20:51:46 - Successfully listening on IP: 192.168.2.157, port: UTP/55647
+(I) 2022-08-18T20:53:22 - Successfully listening on IP: 192.168.2.158, port: TCP/55647
+(I) 2022-08-18T20:53:22 - Successfully listening on IP: 192.168.2.158, port: UTP/55647
+(C) 2022-08-18T20:55:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.158]: no router found
+(C) 2022-08-18T20:55:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.158]: no router found
+(I) 2022-08-18T21:42:32 - Successfully listening on IP: 192.168.2.159, port: TCP/55647
+(I) 2022-08-18T21:42:32 - Successfully listening on IP: 192.168.2.159, port: UTP/55647
+(I) 2022-08-18T22:34:06 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-18T22:34:06 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-18T22:34:06 - Successfully listening on IP: 192.168.2.159, port: TCP/55647
+(I) 2022-08-18T22:34:06 - Successfully listening on IP: 192.168.2.159, port: UTP/55647
+(C) 2022-08-18T22:36:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.159]: no router found
+(C) 2022-08-18T22:36:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.159]: no router found
+(I) 2022-08-19T06:35:29 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-19T06:35:29 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-19T06:35:30 - Successfully listening on IP: 192.168.2.159, port: TCP/55647
+(I) 2022-08-19T06:35:30 - Successfully listening on IP: 192.168.2.159, port: UTP/55647
+(C) 2022-08-19T06:38:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.159]: no router found
+(C) 2022-08-19T06:38:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.159]: no router found
+(I) 2022-08-19T06:41:02 - Successfully listening on IP: 192.168.2.162, port: TCP/55647
+(I) 2022-08-19T06:41:02 - Successfully listening on IP: 192.168.2.162, port: UTP/55647
+(C) 2022-08-19T06:43:38 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.162]: no router found
+(C) 2022-08-19T06:43:38 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.162]: no router found
+(I) 2022-08-19T07:09:47 - Successfully listening on IP: 192.168.2.163, port: TCP/55647
+(I) 2022-08-19T07:09:47 - Successfully listening on IP: 192.168.2.163, port: UTP/55647
+(I) 2022-08-19T07:11:27 - Successfully listening on IP: 192.168.2.164, port: TCP/55647
+(I) 2022-08-19T07:11:27 - Successfully listening on IP: 192.168.2.164, port: UTP/55647
+(I) 2022-08-19T07:13:42 - Successfully listening on IP: 192.168.2.165, port: TCP/55647
+(I) 2022-08-19T07:13:42 - Successfully listening on IP: 192.168.2.165, port: UTP/55647
+(C) 2022-08-19T07:16:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.165]: no router found
+(C) 2022-08-19T07:16:18 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.165]: no router found
+(I) 2022-08-19T07:18:39 - Successfully listening on IP: 192.168.2.166, port: TCP/55647
+(I) 2022-08-19T07:18:39 - Successfully listening on IP: 192.168.2.166, port: UTP/55647
+(C) 2022-08-19T07:21:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.166]: no router found
+(C) 2022-08-19T07:21:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.166]: no router found
+(I) 2022-08-19T07:30:02 - Successfully listening on IP: 192.168.2.167, port: TCP/55647
+(I) 2022-08-19T07:30:02 - Successfully listening on IP: 192.168.2.167, port: UTP/55647
+(C) 2022-08-19T07:32:38 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.167]: no router found
+(C) 2022-08-19T07:32:38 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.167]: no router found
+(I) 2022-08-19T07:41:26 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: TCP/55647
+(I) 2022-08-19T07:41:26 - Successfully listening on IP: fe80::ee93:fd43:e99d:52e0%wlan0, port: UTP/55647
+(I) 2022-08-19T07:41:26 - Successfully listening on IP: 192.168.2.167, port: TCP/55647
+(I) 2022-08-19T07:41:26 - Successfully listening on IP: 192.168.2.167, port: UTP/55647
+(I) 2022-08-19T07:43:40 - Successfully listening on IP: 192.168.2.168, port: TCP/55647
+(I) 2022-08-19T07:43:40 - Successfully listening on IP: 192.168.2.168, port: UTP/55647
+(C) 2022-08-19T07:46:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.168]: no router found
+(C) 2022-08-19T07:46:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.168]: no router found
+(I) 2022-08-19T07:53:22 - Successfully listening on IP: 192.168.2.169, port: TCP/55647
+(I) 2022-08-19T07:53:22 - Successfully listening on IP: 192.168.2.169, port: UTP/55647
+(C) 2022-08-19T07:55:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.169]: no router found
+(C) 2022-08-19T07:55:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.169]: no router found
+(I) 2022-08-19T07:58:23 - Successfully listening on IP: 192.168.2.171, port: TCP/55647
+(I) 2022-08-19T07:58:23 - Successfully listening on IP: 192.168.2.171, port: UTP/55647
+(C) 2022-08-19T08:00:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.171]: no router found
+(C) 2022-08-19T08:00:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.171]: no router found
+(I) 2022-08-19T08:01:10 - Successfully listening on IP: 192.168.2.173, port: TCP/55647
+(I) 2022-08-19T08:01:10 - Successfully listening on IP: 192.168.2.173, port: UTP/55647
+(C) 2022-08-19T08:03:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.173]: no router found
+(C) 2022-08-19T08:03:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.173]: no router found
+(I) 2022-08-19T08:03:52 - Successfully listening on IP: 192.168.2.174, port: TCP/55647
+(I) 2022-08-19T08:03:52 - Successfully listening on IP: 192.168.2.174, port: UTP/55647
+(I) 2022-08-19T08:05:56 - Successfully listening on IP: 192.168.2.176, port: TCP/55647
+(I) 2022-08-19T08:05:56 - Successfully listening on IP: 192.168.2.176, port: UTP/55647
+(C) 2022-08-19T08:08:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.176]: no router found
+(C) 2022-08-19T08:08:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.176]: no router found
+(I) 2022-08-19T08:11:17 - Successfully listening on IP: 192.168.2.178, port: TCP/55647
+(I) 2022-08-19T08:11:17 - Successfully listening on IP: 192.168.2.178, port: UTP/55647
+(C) 2022-08-19T08:13:53 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.178]: no router found
+(C) 2022-08-19T08:13:53 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.178]: no router found
+(I) 2022-08-19T08:14:25 - Successfully listening on IP: 192.168.2.180, port: TCP/55647
+(I) 2022-08-19T08:14:25 - Successfully listening on IP: 192.168.2.180, port: UTP/55647
+(I) 2022-08-19T08:16:15 - Successfully listening on IP: 192.168.2.181, port: TCP/55647
+(I) 2022-08-19T08:16:15 - Successfully listening on IP: 192.168.2.181, port: UTP/55647
+(C) 2022-08-19T08:18:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.181]: no router found
+(C) 2022-08-19T08:18:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.181]: no router found
+(I) 2022-08-19T08:19:38 - Successfully listening on IP: 192.168.2.172, port: TCP/55647
+(I) 2022-08-19T08:19:38 - Successfully listening on IP: 192.168.2.172, port: UTP/55647
+(I) 2022-08-19T08:20:46 - Successfully listening on IP: 192.168.2.184, port: TCP/55647
+(I) 2022-08-19T08:20:46 - Successfully listening on IP: 192.168.2.184, port: UTP/55647
+(C) 2022-08-19T08:23:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.184]: no router found
+(C) 2022-08-19T08:23:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.184]: no router found
+(I) 2022-08-19T08:24:08 - Successfully listening on IP: 192.168.2.185, port: TCP/55647
+(I) 2022-08-19T08:24:08 - Successfully listening on IP: 192.168.2.185, port: UTP/55647
+(C) 2022-08-19T08:26:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.185]: no router found
+(C) 2022-08-19T08:26:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.185]: no router found
+(I) 2022-08-19T08:32:54 - Successfully listening on IP: 192.168.2.186, port: TCP/55647
+(I) 2022-08-19T08:32:54 - Successfully listening on IP: 192.168.2.186, port: UTP/55647
+(C) 2022-08-19T08:35:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.186]: no router found
+(C) 2022-08-19T08:35:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.186]: no router found
+(I) 2022-08-19T08:36:48 - Successfully listening on IP: 192.168.2.189, port: TCP/55647
+(I) 2022-08-19T08:36:48 - Successfully listening on IP: 192.168.2.189, port: UTP/55647
+(C) 2022-08-19T08:39:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.189]: no router found
+(C) 2022-08-19T08:39:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.189]: no router found
+(I) 2022-08-19T08:45:05 - Successfully listening on IP: 192.168.2.188, port: TCP/55647
+(I) 2022-08-19T08:45:05 - Successfully listening on IP: 192.168.2.188, port: UTP/55647
+(C) 2022-08-19T08:47:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.188]: no router found
+(C) 2022-08-19T08:47:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.188]: no router found
+(I) 2022-08-19T08:52:25 - Successfully listening on IP: 192.168.2.191, port: TCP/55647
+(I) 2022-08-19T08:52:25 - Successfully listening on IP: 192.168.2.191, port: UTP/55647
+(C) 2022-08-19T08:55:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.191]: no router found
+(C) 2022-08-19T08:55:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.191]: no router found
+(I) 2022-08-19T08:58:45 - Successfully listening on IP: 192.168.2.193, port: TCP/55647
+(I) 2022-08-19T08:58:45 - Successfully listening on IP: 192.168.2.193, port: UTP/55647
+(C) 2022-08-19T09:01:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.193]: no router found
+(C) 2022-08-19T09:01:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.193]: no router found
+(I) 2022-08-19T09:06:37 - Successfully listening on IP: 192.168.2.194, port: TCP/55647
+(I) 2022-08-19T09:06:37 - Successfully listening on IP: 192.168.2.194, port: UTP/55647
+(C) 2022-08-19T09:09:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.194]: no router found
+(C) 2022-08-19T09:09:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.194]: no router found
+(I) 2022-08-19T09:11:40 - Successfully listening on IP: 192.168.2.192, port: TCP/55647
+(I) 2022-08-19T09:11:40 - Successfully listening on IP: 192.168.2.192, port: UTP/55647
+(C) 2022-08-19T09:14:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.192]: no router found
+(C) 2022-08-19T09:14:16 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.192]: no router found
+(I) 2022-08-19T09:21:35 - Successfully listening on IP: 192.168.2.196, port: TCP/55647
+(I) 2022-08-19T09:21:35 - Successfully listening on IP: 192.168.2.196, port: UTP/55647
+(C) 2022-08-19T09:24:11 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.196]: no router found
+(C) 2022-08-19T09:24:11 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.196]: no router found
+(I) 2022-08-19T09:36:48 - Successfully listening on IP: 192.168.2.198, port: TCP/55647
+(I) 2022-08-19T09:36:48 - Successfully listening on IP: 192.168.2.198, port: UTP/55647
+(I) 2022-08-19T09:38:44 - Successfully listening on IP: 192.168.2.199, port: TCP/55647
+(I) 2022-08-19T09:38:44 - Successfully listening on IP: 192.168.2.199, port: UTP/55647
+(C) 2022-08-19T09:41:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.199]: no router found
+(C) 2022-08-19T09:41:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.199]: no router found
+(I) 2022-08-19T10:10:39 - Successfully listening on IP: 192.168.2.200, port: TCP/55647
+(I) 2022-08-19T10:10:39 - Successfully listening on IP: 192.168.2.200, port: UTP/55647
+(I) 2022-08-19T10:13:00 - Successfully listening on IP: 192.168.2.195, port: TCP/55647
+(I) 2022-08-19T10:13:00 - Successfully listening on IP: 192.168.2.195, port: UTP/55647
+(C) 2022-08-19T10:15:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.195]: no router found
+(C) 2022-08-19T10:15:36 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.2.195]: no router found

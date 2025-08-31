@@ -1,0 +1,296 @@
+[09:55:57.722][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[09:55:57.722][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[09:55:57.722][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[09:55:57.722][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[09:55:57.722][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.5.2
+[09:55:57.761][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.548 MB
+        # 00 : 1.548 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[09:55:57.872][info] [#0:script/language.lua:137]: VSC language: nil
+[09:55:57.872][info] [#0:script/language.lua:138]: LS  language: en-us
+[09:55:57.872][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:57.872][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_mjc_Desktop_dotfiles-public_.config_nvim_plugin.log
+[09:55:57.873][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:58.280][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:58.280][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[09:55:58.281][info] [#0:script/provider/provider.lua:42]: Load config from client	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:58.281][info] [#0:script/provider/provider.lua:43]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[09:55:58.281][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[09:55:58.281][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[09:55:58.281][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:58.290][info] [#0:script/plugin.lua:86]: plugin path:	/home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:58.290][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:58.290][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[09:55:58.301][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[09:55:58.301][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[09:55:59.786][info] [#0:script/workspace/workspace.lua:305]: Preload start:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:59.787][info] [#0:script/workspace/workspace.lua:311]: Scan files at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:55:59.787][info] [#0:script/workspace/workspace.lua:305]: Preload start:	<fallback>
+[09:55:59.788][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[09:55:59.789][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[09:55:59.791][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[09:55:59.791][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[09:55:59.794][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[09:55:59.795][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[09:56:01.787][info] [#0:script/workspace/workspace.lua:348]: Found 67 files at:	<fallback>
+[09:56:01.788][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[09:56:01.788][info] [#0:script/workspace/workspace.lua:348]: Found 70 files at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:56:01.788][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:56:03.787][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.073] sec: <fallback>
+[09:56:03.787][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[09:56:03.787][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[09:56:03.787][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	<fallback>
+[09:56:03.808][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.093] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:56:03.808][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:56:03.808][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:56:03.808][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[09:56:04.288][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[09:56:04.288][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[09:56:04.289][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[70]
+[09:56:04.289][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[70]
+[09:56:04.400][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.112] sec.
+[09:56:04.401][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin] finished, takes [0.112] sec.
+[10:01:19.860][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[70]
+[10:01:19.894][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin] finished, takes [0.034] sec.
+[10:05:57.928][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 38.187 MB
+        # 00 : 35.607 MB
+        # 01 : 0.698 MB
+        # 02 : 0.552 MB
+        # 03 : 0.698 MB
+        # 04 : 0.632 MB
+    --------------- Coroutine ---------------
+        Total:     512
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      512
+    --------------- Cache ---------------
+        Total: 3
+        Dead:  2
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[10:12:16.029][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/lspconfig.lua
+[10:12:16.030][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:16.034][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.004] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:16.034][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:16.034][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:20.015][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[70]
+[10:12:20.050][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin] finished, takes [0.035] sec.
+[10:12:33.036][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/init.lua
+[10:12:33.037][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:33.037][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:33.037][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:12:33.037][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:15:59.067][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 40.066 MB
+        # 00 : 37.484 MB
+        # 01 : 0.698 MB
+        # 02 : 0.552 MB
+        # 03 : 0.698 MB
+        # 04 : 0.633 MB
+    --------------- Coroutine ---------------
+        Total:     580
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      580
+    --------------- Cache ---------------
+        Total: 4
+        Dead:  3
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[10:22:57.172][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[70]
+[10:22:57.176][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[70]
+[10:22:57.211][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin] finished, takes [0.037] sec.
+[10:25:59.213][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 42.272 MB
+        # 00 : 39.690 MB
+        # 01 : 0.698 MB
+        # 02 : 0.552 MB
+        # 03 : 0.698 MB
+        # 04 : 0.633 MB
+    --------------- Coroutine ---------------
+        Total:     618
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      618
+    --------------- Cache ---------------
+        Total: 6
+        Dead:  5
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[10:35:59.366][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 43.065 MB
+        # 00 : 40.483 MB
+        # 01 : 0.698 MB
+        # 02 : 0.552 MB
+        # 03 : 0.698 MB
+        # 04 : 0.633 MB
+    --------------- Coroutine ---------------
+        Total:     618
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      618
+    --------------- Cache ---------------
+        Total: 6
+        Dead:  5
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[10:38:25.396][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/formatter_configs
+[10:38:25.397][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:27.397][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.004] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:27.398][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:27.398][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:31.398][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[71]
+[10:38:31.433][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin] finished, takes [0.035] sec.
+[10:38:45.402][info] [#0:script/workspace/workspace.lua:265]: Scan files at:	file:///home/mjc/.config/nvim/lua/plugins/lsp/formatter_configs/prettierd.json
+[10:38:45.403][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:45.403][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:45.403][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:45.403][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin
+[10:38:49.402][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin], files count:[70]
+[10:38:49.437][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/mjc/Desktop/dotfiles-public/.config/nvim/plugin] finished, takes [0.035] sec.
+[10:45:59.504][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 45.536 MB
+        # 00 : 42.954 MB
+        # 01 : 0.698 MB
+        # 02 : 0.552 MB
+        # 03 : 0.698 MB
+        # 04 : 0.633 MB
+    --------------- Coroutine ---------------
+        Total:     670
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      670
+    --------------- Cache ---------------
+        Total: 8
+        Dead:  7
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[10:55:59.639][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 46.331 MB
+        # 00 : 43.748 MB
+        # 01 : 0.698 MB
+        # 02 : 0.552 MB
+        # 03 : 0.698 MB
+        # 04 : 0.633 MB
+    --------------- Coroutine ---------------
+        Total:     670
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      670
+    --------------- Cache ---------------
+        Total: 8
+        Dead:  7
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[11:00:02.909][info] [#0:script/provider/provider.lua:168]: Server shutdown.
+[11:00:03.010][info] [#0:script/provider/provider.lua:161]: Server exited.

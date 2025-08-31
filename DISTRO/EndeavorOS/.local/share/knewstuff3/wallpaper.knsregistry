@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Layan wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1309218</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>277844</downloads>
+  <installedfile>/home/mjc/.local/share/wallpapers/XpLkFk-Layan/*</installedfile>
+  <id>1309218</id>
+  <releasedate>2020-05-19</releasedate>
+  <summary>Layan wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1309218/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1309218/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk4NzY2NzAiLCJvIjoiMSIsInMiOiI0ZGE3YzQ2YmYwMGM2NmY4MWYyYzc3ZmE2ZGUxZDEzYTk5YWQxZjYxNDIyOGIyMDg4MThkMjkwYjliMGNjMmNlYzZiNTU0MDYzM2Q2ZmNlZDk5NDNlZmY3MGNlNzZjZjhmNDE5YzhjOTAyNjJhMzZkZDFhMmZkODA5OWVkMWVhMSIsInQiOjE2NTcwODA0MjIsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.NHVhsa3kcsLiiVWVb72aypDUWPE3ooNaVJ1S0P5LirE/Layan.tar.xz</payload>
+  <tags>plasma,original-product,artwork,kde,gplv3,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Sweet wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1309907</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>72</rating>
+  <downloads>543556</downloads>
+  <installedfile>/home/mjc/.local/share/wallpapers/Sweet-Wallpapers/*</installedfile>
+  <id>1309907</id>
+  <releasedate>2020-01-12</releasedate>
+  <summary>&lt;strong>wallpaper with colors that fits my &lt;a href="https://www.pling.com/p/1294729/" target="_blank" rel="nofollow">Sweet theme for plasma&lt;/a> &lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1309907/61af45fda6d673380e56166ae5fbfc315d2b1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1309907/61af45fda6d673380e56166ae5fbfc315d2b1.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzg4NjUyODYiLCJvIjoiMSIsInMiOiJmYzljZjI4ZTIzMmVhMGIyMmZjYTEzNDY5ODI3NGJlNjc4MDA1NDdlYmU0OWJmMDQwYWRlNmZhMDhmOTAyZTM5ZGVjNjk5ZDM1ZTYwYmU4NTMwNDUyZGE1NjY5NGExZGZlMzZkODJkZWUyYTAyZmU4NmYwODkyOWRkMDhiYzRjYSIsInQiOjE2NTc0OTg4ODIsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.uLMlUfy0cIz5SaUnFMYDUKl0rJktq3-Ddc3OAUgzG-M/Sweet-Wallpapers.tar.xz</payload>
+  <tags>wallpaper,kde,artwork,plasma,original-product,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Nordic wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1683121</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>32708</downloads>
+  <installedfile>/home/mjc/.local/share/wallpapers/nordic-wallpaper.jpg</installedfile>
+  <id>1683121</id>
+  <releasedate>2022-01-13</releasedate>
+  <summary>A wallpaper with colors that fits my &lt;a href="https://store.kde.org/p/1327093/" target="_blank" rel="nofollow">Nordic&lt;/a> theme for plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1683121/nordic-wallpaper.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1683121/nordic-wallpaper.jpg</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDIxMTM2MDgiLCJvIjoiMSIsInMiOiJmYmE3NDM0NzNiNmQ3NjBiYzQ0Y2I4ZmNjMDdmZTIzYzIyZWYyMzQ1Y2ZjOWVjYjFlZGEwZDYyMzFkYjIzYjcyYTMyMzI3ZTlmMjc3NWY3MjZjNjI4NmVhMTQ1ZTZmODA0YzQwY2YxNzcyNTJkYjA4NmQ1OWZkOWJjMGYyOGM1NiIsInQiOjE2NTcwODA2NDAsInN0ZnAiOm51bGwsInN0aXAiOiIxNDIuMTEyLjI0MC4xMjYifQ.d8vU5TZEWnG9PMc4LObCkWrtiJoAW2qN2nyb1ThHDMQ/nordic-wallpaper.jpg</payload>
+  <tags>artwork,cc-by-sa,kde,wallpaper,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

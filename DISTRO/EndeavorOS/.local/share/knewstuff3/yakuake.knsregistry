@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="184">
+  <name>Materia Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229144</homepage>
+  <licence></licence>
+  <version>20210410</version>
+  <rating>79</rating>
+  <downloads>12114</downloads>
+  <installedfile>/home/mjc/.local/share/yakuake/kns_skins/materia-dark/*</installedfile>
+  <id>1229144</id>
+  <releasedate>2021-04-10</releasedate>
+  <summary>Materia pack for Plasma 5 desktop.&lt;br />
+&lt;br />
+Please use Kvantum Engine and Theme for better looking:&lt;br />
+https://www.pling.com/p/1229126&lt;br />
+&lt;br />
+Install full Materia pack from my collection.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/80/78/1229144/07e1644ba6e83d286263f1652bd6320aa44851eb03bf0b1a986b491de7edd700bfa1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/80/78/1229144/07e1644ba6e83d286263f1652bd6320aa44851eb03bf0b1a986b491de7edd700bfa1.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTgwNDAyNzYiLCJvIjoiMSIsInMiOiIzZjI2N2FhMmZmYWVhZmVlODdjY2NkMTVkMzRlNjhmOTgzZjdjZWYzZjU4ODg2ZmNhNWM5NzM1MjlkNzMxMzRjMjUzYzExN2Y0MzliNmNjNjAwZjc0YTVlNTBlMGYwYjE5ODU0ZDQ3YjEzNDk2MTJmMjViYmU0Y2FiOWM4ODEzNiIsInQiOjE2NTcwNTQxMTAsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuMTQ5LjI3LjEzNiJ9.90fc2pPG6rRWfyZZ_WnMq62B6pDZ-lQmLy9IlBYBPGQ/materia-dark.tar.gz</payload>
+  <tags>gplv3,materia,material,yakuake,original-product,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="184">
+  <name>Plasma: Oxygen - Panel - Mod</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>lawlessbg</author>
+  <homepage>https://store.kde.org/p/1106256</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>79</rating>
+  <downloads>19360</downloads>
+  <installedfile>/home/mjc/.local/share/yakuake/kns_skins/plasma-oxygen-panel-mod/*</installedfile>
+  <id>1106256</id>
+  <releasedate>2011-01-24</releasedate>
+  <summary>Little transparent modification of "Plasma: Oxygen - Panel" -&amp;gt; &lt;a href="http://kde-look.org/content/show.php?content=92457" target="_blank" rel="nofollow">http://kde-look.org/content/show.php?content=92457&lt;/a>&lt;br />
+Thanks To The Author&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/14/38/92/1106256/137261-11.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/14/38/92/1106256/137261-11.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjQ4MDM1NjciLCJvIjoiMSIsInMiOiIyZGYwZWQwZjg4NzM4ZWVkM2U2MGYwNTEyZGFjZThmNzBmYzAyNjYyMmU2YTAzNjFjZTdlMTlkZTIxZjZjN2RmYmI5NGQ2YzIxMDZiOWNlM2M5ZWU1YTFiM2IyZGU5MmNmYWRlNjlhNmUxNzlhMGFiMDcyZjU0YmYzMDg2MzRjYSIsInQiOjE2NTcwNTQ5ODQsInN0ZnAiOm51bGwsInN0aXAiOiIxODQuMTQ5LjI3LjEzNiJ9.HTVJAit3x30-jAgXMCrKFkufcjT2IEbI6_dWt2PrNwI/137261-plasma-oxygen-panel-mod.tar.gz</payload>
+  <tags>addon</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

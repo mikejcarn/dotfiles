@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-png
+Name=Ed.png
+Type=Link
+URL[$e]=file:$HOME/Desktop/dotfiles/images/start-icon/Ed.png
+X-KDE-LastOpenedWith=systemsettings

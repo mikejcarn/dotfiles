@@ -1,0 +1,62 @@
+# Don't print a new line at the start of the prompt
+add_newline = false
+command_timeout = 10000
+
+format = """
+$time$username$hostname$shlvl$kubernetes$directory$git_branch$git_commit$git_state$git_status$hg_branch$docker_context$cmake$dart$dotnet$elixir$elm$erlang$golang$helm$java$julia$nim$nodejs$ocaml$perl$php$purescript$python$ruby$rust$swift$terraform$zig$nix_shell$conda$memory_usage$aws$gcloud$openstack$env_var$crystal$custom$cmd_duration$lua$jobs$battery$status$character"""  
+
+[line_break]
+disabled = true
+
+[character]
+ success_symbol = """[♥](bold #dfff00)
+"""
+ error_symbol = """[♥](bold red)
+"""
+ vimcmd_symbol = """[♥](bold green)
+"""
+ vimcmd_visual_symbol = """[♥](bold green)
+"""
+ vimcmd_replace_symbol = """[♥](bold green)
+"""
+ vimcmd_replace_one_symbol = """[♥](bold green)
+"""
+
+[directory]
+truncation_length = 1
+truncation_symbol = " /"
+style = "bold #34e2e2"
+
+[time]
+format = '[$time](bold #dfff00) '
+disabled = false
+time_format = "%I:%M" #🍇🍵 👁
+use_12hr = false
+
+[cmd_duration]
+format = "[$duration](bold #dfff00) "  #🕑
+
+[nodejs]
+format = "[⬢ $version ](bold #8ae234)"
+
+[python]
+format = '[Python $pyenv_prefix$version $virtualenv](bold #acd04a) '
+
+[lua]
+format = '[Lua_$version](bold blue) '
+
+[git_branch]
+format = "[$symbol$branch](#cb1ed1) "
+
+[git_status]
+format = '[$all_status$ahead_behind](bold #cb1ed1)'
+conflicted = "= "
+ahead = "↦  "
+behind = "↤  "
+diverged = "⇅  "
+untracked = '? '
+modified = '! '
+staged = '[\($count\)](#cb1ed1) '
+renamed = "» "
+deleted = "✘ "
+stashed = "⛁  "

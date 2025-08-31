@@ -1,0 +1,75 @@
+[16:14:25.270][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[16:14:25.270][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[16:14:25.270][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[16:14:25.270][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[16:14:25.270][info] [#0:/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.5.2
+[16:14:25.295][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.548 MB
+        # 00 : 1.548 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[16:14:25.403][info] [#0:script/language.lua:137]: VSC language: nil
+[16:14:25.403][info] [#0:script/language.lua:138]: LS  language: en-us
+[16:14:25.403][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/mjc
+[16:14:25.403][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_mjc.log
+[16:14:25.403][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/mjc
+[16:14:39.287][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[16:14:39.287][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[16:14:39.287][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[16:14:39.298][info] [#0:script/provider/provider.lua:57]: Load config from client	fallback
+[16:14:39.298][info] [#0:script/provider/provider.lua:58]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim", "use" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/home/mjc/.config/nvim/lua"] = true,
+        ["/usr/share/nvim/runtime/lua"] = true
+      }
+    }
+  }
+}
+[16:14:39.298][info] [#0:script/workspace/workspace.lua:305]: Preload start:	<fallback>
+[16:14:39.299][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[16:14:39.300][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/mjc/.config/nvim/lua
+[16:14:39.302][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[16:14:39.705][info] [#0:script/provider/provider.lua:168]: Server shutdown.
+[16:14:39.705][info] [#0:script/workspace/workspace.lua:348]: Found 67 files at:	<fallback>
+[16:14:39.705][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[16:14:39.707][info] [#0:script/provider/provider.lua:161]: Server exited.
