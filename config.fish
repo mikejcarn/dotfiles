@@ -50,6 +50,7 @@ alias dl="cd ~/Downloads"
 alias music="cd ~/Music"
 alias pics="cd ~/Pictures"
 alias vids="cd ~/Videos"
+alias notes="cd ~/Dropbox/YORK_NOTES/FALL_2025_2026"
 
 # Config Files
 alias fishrc="nvim ~/.config/fish/config.fish"
@@ -105,3 +106,23 @@ eval "$(pyenv init -)" # init in terminal
 # Starship Prompt ------------------------------------------
 
 starship init fish | source
+
+# UTILITY FUNCTIONS ========================================
+
+function sub2txt
+    set input_video $argv[1]
+    set output_text (string replace -r '\.[^.]*$' '' $input_video).txt
+    
+    ffmpeg -i "$input_video" -map 0:s:0 -f srt - | sed -E '
+        /^\s*$/d
+        /^[0-9]+$/{
+            N
+            d
+        }
+        s/<[^>]+>//g
+        s/^[0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3} --> [0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}//
+        s/^[[:space:]]*//
+    ' > "$output_text"
+    
+    echo "Subtitles extracted to: $output_text"
+end
